@@ -9,8 +9,8 @@ The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, rip
 - [bat](https://github.com/sharkdp/bat): A replacement for `cat` that provides syntax highlighting and other features. 
 - [bottom](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor. 
 - [broot](https://github.com/Canop/broot): A new way to see and navigate directory trees
-- [counts](https://github.com/nnethercote/counts): "A tool for ad hoc profiling"
 - [choose](https://github.com/theryangeary/choose): A human-friendly and fast alternative to `cut` and (sometimes) `awk`
+- [counts](https://github.com/nnethercote/counts): "A tool for ad hoc profiling"
 - [delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, `diff`, and grep output 
 - [difftastic](https://github.com/Wilfred/difftastic/): A syntax-aware diff  
 - [dog](https://github.com/ogham/dog): A command-line DNS client
@@ -26,7 +26,7 @@ The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, rip
 - [git-cliff](https://github.com/orhun/git-cliff): "A highly customizable Changelog Generator that follows Conventional Commit specifications"
 - [gptman](https://github.com/rust-disk-partition-management/gptman): "A GPT manager that allows you to copy partitions from one disk to another and more"
 - [grex](https://github.com/pemistahl/grex): A command-line tool and library for generating regular expressions from user-provided test cases 
-- [Himalaya](https://github.com/soywod/himalaya): Command-line interface for email management 
+- [himalaya](https://github.com/soywod/himalaya): Command-line interface for email management 
 - [htmlq](https://github.com/mgdm/htmlq): Like jq, but for HTML. Uses CSS selectors to extract bits of content from HTML files.
 - [hyperfine](https://github.com/sharkdp/hyperfine): Command-line benchmarking tool
 - [inlyne](https://github.com/trimental/inlyne): "GPU powered yet browsless tool to help you quickly view markdown files"
@@ -64,21 +64,21 @@ The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, rip
 - [xh](https://github.com/ducaale/xh): "Friendly and fast tool for sending HTTP requests" 
 - [xsv](https://github.com/BurntSushi/xsv): A fast CSV command line toolkit written in Rust. (Last updated in 2018)
 - [zoxide](https://github.com/ajeetdsouza/zoxide): A smarter `cd` command.
-
 ### Calculators
-- [eva](https://github.com/nerdypepper/eva): "a calculator REPL, similar to bc(1)" (be sure to check out fend as well)
-- [fend](https://github.com/printfn/fend): "Arbitrary-precision unit-aware calculator" ([Documentation](https://printfn.github.io/fend/documentation))
+- [eva](https://github.com/nerdypepper/eva): "a calculator REPL, similar to bc(1)"
+- [fend](https://github.com/printfn/fend): "Arbitrary-precision unit-aware calculator" ([Documentation](https://printfn.github.io/fend/documentation)). I prefer this calculator.
 - [Kalker](https://github.com/PaddiM8/kalker): "a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals"
 - [printfn](https://github.com/printfn/fend): "Arbitrary-precision unit-aware calculator"
 
 ## Tools to help working with Rust lang itself
-- [cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit): Audit Cargo.lock files for crates with security vulnerabilities reported to the RustSec Advisory Database. See also: [cargo-deny](https://github.com/EmbarkStudios/cargo-deny).
-- [cargo-geiger](https://github.com/rust-secure-code/cargo-geiger): Detects usage of unsafe Rust in a Rust crate and its dependencies. 
-- [cargo-wipe](https://github.com/mihai-dinculescu/cargo-wipe): Cargo subcommand that recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path. See also: [kondo](https://github.com/tbillington/kondo).
-- [cargo-crev](https://github.com/crev-dev/cargo-crev): A cryptographically verifiable code review system for the cargo (Rust) package manager.
 - [bacon](https://github.com/Canop/bacon): A background Rust code checker
 - [cargo watch](https://github.com/watchexec/cargo-watch): Watches over your Cargo project's source. 
+- [cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit): Audit Cargo.lock files for crates with security vulnerabilities reported to the RustSec Advisory Database. See also: [cargo-deny](https://github.com/EmbarkStudios/cargo-deny).
 - [cargo-binstall](https://github.com/cargo-bins/cargo-binstall): "Binary installation for [R]ust projects"
+- [cargo-crev](https://github.com/crev-dev/cargo-crev): A cryptographically verifiable code review system for the cargo (Rust) package manager.
+- [cargo-dist](https://github.com/axodotdev/cargo-dist): "shippable application packaging for Rust"
+- [cargo-geiger](https://github.com/rust-secure-code/cargo-geiger): Detects usage of unsafe Rust in a Rust crate and its dependencies. 
+- [cargo-wipe](https://github.com/mihai-dinculescu/cargo-wipe): Cargo subcommand that recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path. See also: [kondo](https://github.com/tbillington/kondo).
 - [kani-verifier](https://github.com/model-checking/kani): A "bit-precise model checker for Rust."
 
 ## Terminal emulators / terminal-related
