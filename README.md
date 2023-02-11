@@ -130,6 +130,7 @@ fi
 
 - [Tidy](https://github.com/sts10/tidy): A command-line tool for combining and cleaning large word list files.
 - [Medic](https://github.com/sts10/medic): Check the "health" of passwords in a KeePass database 
+- [QRForge](https://github.com/sts10/qr-forge): Safely transform between 32-character TOTP secret keys and their QR codes 
 
 ## Know a good one that I don't have listed here?
 
