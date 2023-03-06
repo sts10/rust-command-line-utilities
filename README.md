@@ -16,7 +16,7 @@ The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, rip
 - [dog](https://github.com/ogham/dog): A command-line DNS client
 - [dua](https://github.com/Byron/dua-cli): "View disk space usage and delete unwanted data, fast."
 - [dust](https://github.com/bootandy/dust): "a more intuitive version of `du` in Rust"
-- [exa](https://the.exa.website/): "A modern version of `ls`"
+- [exa](https://the.exa.website/): "A modern version of `ls`". Note: As of March 2023, the latest release is from April 2021. See [this discussion re: maintenance](https://github.com/ogham/exa/issues/1139).
 - [fclones](https://github.com/pkolaczk/fclones): an "efficient duplicate file finder" 
 - [fd](https://github.com/sharkdp/fd): "A simple, fast and user-friendly alternative to `find`"
 - [felix](https://github.com/kyoheiu/felix): tui file manager with vim-like key mapping 
