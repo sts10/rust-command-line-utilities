@@ -68,7 +68,6 @@ The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, rip
 - [eva](https://github.com/nerdypepper/eva): "a calculator REPL, similar to bc(1)"
 - [fend](https://github.com/printfn/fend): "Arbitrary-precision unit-aware calculator" ([Documentation](https://printfn.github.io/fend/documentation)). I prefer this calculator.
 - [Kalker](https://github.com/PaddiM8/kalker): "a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals"
-- [printfn](https://github.com/printfn/fend): "Arbitrary-precision unit-aware calculator"
 
 ## Tools to help working with Rust lang itself
 - [bacon](https://github.com/Canop/bacon): A background Rust code checker
