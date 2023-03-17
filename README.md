@@ -4,6 +4,25 @@ Note that I have not tried all of these personally, and **cannot and do not vouc
 
 The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, ripgrep, just, cargo-audit and cargo-wipe.
 
+## Table
+
+|unix|rust                                               |stars                                                                                                |last commit                                                                                                 |
+|----|---------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+|cat |[bat       ](https://github.com/sharkdp/bat)       |![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=flat-square&label=)       |![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/bat?style=flat-square&label=)       |
+|cd  |[z         ](https://github.com/ajeetdsouza/zoxide)|![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=)|![GitHub last commit](https://img.shields.io/github/last-commit/ajeetdsouza/zoxide?style=flat-square&label=)|
+|cp  |[xcp       ](https://github.com/tarka/xcp)         |![GitHub Repo stars](https://img.shields.io/github/stars/tarka/xcp?style=flat-square&label=)         |![GitHub last commit](https://img.shields.io/github/last-commit/tarka/xcp?style=flat-square&label=)         |
+|diff|[delta     ](https://github.com/dandavison/delta)  |![GitHub Repo stars](https://img.shields.io/github/stars/dandavison/delta?style=flat-square&label=)  |![GitHub last commit](https://img.shields.io/github/last-commit/dandavison/delta?style=flat-square&label=)  |
+|diff|[difftastic](https://github.com/Wilfred/difftastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat-square&label=)|![GitHub last commit](https://img.shields.io/github/last-commit/Wilfred/difftastic?style=flat-square&label=)|
+|du  |[dust      ](https://github.com/bootandy/dust)     |![GitHub Repo stars](https://img.shields.io/github/stars/bootandy/dust?style=flat-square&label=)     |![GitHub last commit](https://img.shields.io/github/last-commit/bootandy/dust?style=flat-square&label=)     |
+|find|[fd        ](https://github.com/sharkdp/fd)        |![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat-square&label=)        |![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/fd?style=flat-square&label=)        |
+|grep|[rg        ](https://github.com/burntsushi/ripgrep)|![GitHub Repo stars](https://img.shields.io/github/stars/burntsushi/ripgrep?style=flat-square&label=)|![GitHub last commit](https://img.shields.io/github/last-commit/BurntSushi/ripgrep?style=flat-square&label=)|
+|ls  |[exa       ](https://github.com/ogham/exa)         |![GitHub Repo stars](https://img.shields.io/github/stars/ogham/exa?style=flat-square&label=)         |![GitHub last commit](https://img.shields.io/github/last-commit/ogham/exa?style=flat-square&label=)         |
+|ls  |[lsd       ](https://github.com/peltoche/lsd)      |![GitHub Repo stars](https://img.shields.io/github/stars/peltoche/lsd?style=flat-square&label=)      |![GitHub last commit](https://img.shields.io/github/last-commit/Peltoche/lsd?style=flat-square&label=)      |
+|rm  |[rip       ](https://github.com/nivekuil/rip)      |![GitHub Repo stars](https://img.shields.io/github/stars/nivekuil/rip?style=flat-square&label=)      |![GitHub last commit](https://img.shields.io/github/last-commit/nivekuil/rip?style=flat-square&label=)      |
+|sed |[sd        ](https://github.com/chmln/sd)          |![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat-square&label=)          |![GitHub last commit](https://img.shields.io/github/last-commit/chmln/sd?style=flat-square&label=)          |
+
+## As individual paragraphs
+
 **[atuin](https://github.com/ellie/atuin)** 
 "Magical shell history"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ellie/atuin?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ellie/atuin?style=flat)
@@ -38,7 +57,7 @@ A syntax-highlighting pager for git, `diff`, and grep output
 
 **[difftastic](https://github.com/Wilfred/difftastic/)**
 A syntax-aware diff  
-<!-- <br>![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic/?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Wilfred/difftastic/?style=flat) -->
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Wilfred/difftastic?style=flat)
 
 **[dog](https://github.com/ogham/dog)**
 A command-line DNS client
@@ -236,7 +255,7 @@ An extended `cp`
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ducaale/xh?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ducaale/xh?style=flat)
 
 **[xsv](https://github.com/BurntSushi/xsv)**
-A fast CSV command line toolkit written in Rust. (Last updated in 2018)
+A fast CSV command line toolkit written in Rust. 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/xsv?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/BurntSushi/ripgrep?style=flat)
 
 **[zoxide](https://github.com/ajeetdsouza/zoxide)**
