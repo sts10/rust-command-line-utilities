@@ -49,7 +49,7 @@ The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, rip
 - [qsv](https://github.com/jqnatividad/qsv): CSVs sliced, diced & analyzed. (A fork of `xsv`)
 - [rargs](https://github.com/lotabout/rargs): xargs + awk with pattern matching support.
 - [rip](https://github.com/nivekuil/rip): A safe and ergonomic alternative to `rm`
-- [ripgrep](https://github.com/BurntSushi/ripgrep): A faster replacement for GNU’s `grep` command. This tool is very good. See [ripgrep-all](https://github.com/phiresky/ripgrep-all) to search PDFs, E-Books, Office documents, zip, tar.gz, etc. 
+- [ripgrep](https://github.com/BurntSushi/ripgrep) ![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/BurntSushi/ripgrep?style=flat-square): A faster replacement for GNU’s `grep` command. This tool is very good. See [ripgrep-all](https://github.com/phiresky/ripgrep-all) to search PDFs, E-Books, Office documents, zip, tar.gz, etc. 
 - [ripsecrets](https://github.com/sirwart/ripsecrets): Find secret keys in your code before commiting them to git. I've contributed to this one!
 - [rnr](https://github.com/ismaelgv/rnr): "A command-line tool to batch rename files and directories"
 - [sd](https://github.com/chmln/sd): Intuitive find & replace CLI (`sed` alternative).
