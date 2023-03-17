@@ -4,8 +4,12 @@ Note that I have not tried all of these personally, and **cannot and do not vouc
 
 The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, ripgrep, just, cargo-audit and cargo-wipe.
 
-- [atuin](https://github.com/ellie/atuin) ![GitHub Repo stars](https://img.shields.io/github/stars/ellie/atuin?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ellie/atuin?style=flat): "Magical shell history"
-- [bandwhich](https://github.com/imsnif/bandwhich) ![GitHub Repo stars](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/bandwhich?style=flat): Terminal bandwidth utilization tool 
+**[atuin](https://github.com/ellie/atuin)** 
+![GitHub Repo stars](https://img.shields.io/github/stars/ellie/atuin?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ellie/atuin?style=flat)
+"Magical shell history"
+**[bandwhich](https://github.com/imsnif/bandwhich)**
+![GitHub Repo stars](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/bandwhich?style=flat)
+Terminal bandwidth utilization tool 
 - [bat](https://github.com/sharkdp/bat) ![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/bat?style=flat): A replacement for `cat` that provides syntax highlighting and other features. 
 - [bottom](https://github.com/ClementTsang/bottom) ![GitHub Repo stars](https://img.shields.io/github/stars/ClementTsang/bottom?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ClementTsang/bottom?style=flat): Yet another cross-platform graphical process/system monitor. 
 - [broot](https://github.com/Canop/broot) ![GitHub Repo stars](https://img.shields.io/github/stars/Canop/broot?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/broot?style=flat): A new way to see and navigate directory trees
