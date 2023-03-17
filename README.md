@@ -282,31 +282,48 @@ A smarter `cd` command.
 A cross-platform, OpenGL terminal emulator. 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/alacritty/alacritty?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/alacritty/alacritty?style=flat)
 
-**[Wezterm](https://github.com/wez/wezterm)**:
-A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust 
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/wez/wezterm?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/wez/wezterm?style=flat)
-
 **[Starship](https://starship.rs/)**:
 Customizable prompt for any shell.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/starship/starship?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/starship/starship?style=flat)
+
+**[Wezterm](https://github.com/wez/wezterm)**:
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/wez/wezterm?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/wez/wezterm?style=flat)
 
 **[Zellij](https://github.com/zellij-org/zellij)**:
 A terminal workspace with batteries included.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/zellij-org/zellij?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/zellij-org/zellij?style=flat)
 
 ## Text editors written in Rust
-- [amp](https://github.com/jmacdonald/amp)
-- [helix](https://github.com/helix-editor/helix)
-- [kibi](https://github.com/ilai-deutel/kibi): "A text editor in ≤1024 lines of code, written in Rust"
-- [lapce](https://github.com/lapce/lapce)
-- [pepper](https://github.com/vamolessa/pepper)
-- [xi](https://github.com/xi-editor/xi-editor)
-- [zee](https://github.com/zee-editor/zee)
+
+**[amp](https://github.com/jmacdonald/amp)**
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/jmacdonald/amp?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/zellij-org/zellij?style=flat)
+
+**[helix](https://github.com/helix-editor/helix)**
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/helix-editor/helix?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/helix-editor/helix?style=flat)
+
+**[kibi](https://github.com/ilai-deutel/kibi)** 
+"A text editor in ≤1024 lines of code, written in Rust"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ilai-deutel/kibi?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ilai-deutel/kibi?style=flat)
+
+**[lapce](https://github.com/lapce/lapce)**
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/lapce/lapce?style=flat)
+
+**[pepper](https://github.com/vamolessa/pepper)**
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/vamolessa/pepper?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/vamolessa/pepper?style=flat)
+
+**[xi](https://github.com/xi-editor/xi-editor)**
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/zellij-org/zellij?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/zellij-org/zellij?style=flat)
+
+**[zee](https://github.com/zee-editor/zee)**
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/zee-editor/zee?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/zee-editor/zee?style=flat)
 
 See [this "Battle of the [Rust] text editors" post from 2022](https://matduggan.com/battle-of-the-text-editors/).
 
 ## Email clients
-- [himalaya](https://github.com/soywod/himalaya): "Command-line interface for email management"
+[himalaya](https://github.com/soywod/himalaya)
+"Command-line interface for email management"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/soywod/himalaya?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/soywod/himalaya?style=flat)
 
 ## Tools to help working with Rust lang itself
 
