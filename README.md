@@ -256,22 +256,23 @@ A smarter `cd` command.
 "a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/PaddiM8/kalker?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/PaddiM8/kalker?style=flat)
 
-## Tools to help working with Rust lang itself
-- [bacon](https://github.com/Canop/bacon): A background Rust code checker
-- [cargo watch](https://github.com/watchexec/cargo-watch): Watches over your Cargo project's source. 
-- [cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit): Audit Cargo.lock files for crates with security vulnerabilities reported to the RustSec Advisory Database. See also: [cargo-deny](https://github.com/EmbarkStudios/cargo-deny).
-- [cargo-binstall](https://github.com/cargo-bins/cargo-binstall): "Binary installation for [R]ust projects"
-- [cargo-crev](https://github.com/crev-dev/cargo-crev): A cryptographically verifiable code review system for the cargo (Rust) package manager.
-- [cargo-dist](https://github.com/axodotdev/cargo-dist): "shippable application packaging for Rust"
-- [cargo-geiger](https://github.com/rust-secure-code/cargo-geiger): Detects usage of unsafe Rust in a Rust crate and its dependencies. 
-- [cargo-wipe](https://github.com/mihai-dinculescu/cargo-wipe): Cargo subcommand that recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path. See also: [kondo](https://github.com/tbillington/kondo).
-- [kani-verifier](https://github.com/model-checking/kani): A "bit-precise model checker for Rust."
-
 ## Terminal emulators / terminal-related
-- [Alacritty](https://github.com/alacritty/alacritty): A cross-platform, OpenGL terminal emulator. 
-- [Wezterm](https://github.com/wez/wezterm): A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust 
-- [Starship](https://starship.rs/): Customizable prompt for any shell.
-- [Zellij](https://github.com/zellij-org/zellij): A terminal workspace with batteries included.
+
+**[Alacritty](https://github.com/alacritty/alacritty)**:
+A cross-platform, OpenGL terminal emulator. 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/alacritty/alacritty?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/alacritty/alacritty?style=flat)
+
+**[Wezterm](https://github.com/wez/wezterm)**:
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/wez/wezterm?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/wez/wezterm?style=flat)
+
+**[Starship](https://starship.rs/)**:
+Customizable prompt for any shell.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/starship/starship?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/starship/starship?style=flat)
+
+**[Zellij](https://github.com/zellij-org/zellij)**:
+A terminal workspace with batteries included.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/zellij-org/zellij?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/zellij-org/zellij?style=flat)
 
 ## Text editors written in Rust
 - [amp](https://github.com/jmacdonald/amp)
@@ -286,6 +287,43 @@ See [this "Battle of the [Rust] text editors" post from 2022](https://matduggan.
 
 ## Email clients
 - [himalaya](https://github.com/soywod/himalaya): "Command-line interface for email management"
+
+## Tools to help working with Rust lang itself
+
+**[bacon](https://github.com/Canop/bacon)**:
+A background Rust code checker
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/bacon?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/printfn/fend?style=flat)
+
+**[cargo watch](https://github.com/watchexec/cargo-watch)**:
+Watches over your Cargo project's source. 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/watchexec/cargo-watch?style=flat)
+
+**[cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit)**:
+Audit Cargo.lock files for crates with security vulnerabilities reported to the RustSec Advisory Database. See also: [cargo-deny](https://github.com/EmbarkStudios/cargo-deny).
+
+**[cargo-binstall](https://github.com/cargo-bins/cargo-binstall)**:
+"Binary installation for [R]ust projects"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/cargo-bins/bargo-binstall?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/cargo-bins/cargo-binstall?style=flat)
+
+**[cargo-crev](https://github.com/crev-dev/cargo-crev)**:
+A cryptographically verifiable code review system for the cargo (Rust) package manager.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/crev-dev/cargo-crev?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/crev-dev/cargo-crev?style=flat)
+
+**[cargo-dist](https://github.com/axodotdev/cargo-dist)**:
+"Shippable application packaging for Rust"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/axodotdev/cargo-dist?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/axodotdev/cargo-dist?style=flat)
+
+**[cargo-geiger](https://github.com/rust-secure-code/cargo-geiger)**:
+Detects usage of unsafe Rust in a Rust crate and its dependencies. 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-secure-code/cargo-geiger?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-secure-code/cargo-geiger?style=flat)
+
+**[cargo-wipe](https://github.com/mihai-dinculescu/cargo-wipe)**:
+Cargo subcommand that recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path. See also: [kondo](https://github.com/tbillington/kondo).
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/mihai-dinculescu/cargo-wipe?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/mihai-dinculescu/cargo-wipe?style=flat)
+
+**[kani-verifier](https://github.com/model-checking/kani)**:
+A "bit-precise model checker for Rust."
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/model-checking/kani?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/model-checking/kani?style=flat)
 
 ## Other lists of Rust command line utilities
 
