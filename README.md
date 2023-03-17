@@ -38,7 +38,7 @@ A syntax-highlighting pager for git, `diff`, and grep output
 
 **[difftastic](https://github.com/Wilfred/difftastic/)**
 A syntax-aware diff  
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic/?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Wilfred/difftastic/?style=flat)
+<!-- <br>![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic/?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Wilfred/difftastic/?style=flat) -->
 
 **[dog](https://github.com/ogham/dog)**
 A command-line DNS client
