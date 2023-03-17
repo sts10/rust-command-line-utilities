@@ -6,14 +6,17 @@ The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, rip
 
 **[atuin](https://github.com/ellie/atuin)** 
 "Magical shell history"
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/ellie/atuin?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ellie/atuin?style=flat)
 
 **[bandwhich](https://github.com/imsnif/bandwhich)**
 Terminal bandwidth utilization tool 
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/bandwhich?style=flat)
 
 **[bat](https://github.com/sharkdp/bat)**
 A replacement for `cat` that provides syntax highlighting and other features. 
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/bat?style=flat)
 
 **[bottom](https://github.com/ClementTsang/bottom)**
