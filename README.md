@@ -168,7 +168,7 @@ Fancy `cat` for Markdown
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lunaryorn/mdcat?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/lunaryorn/mdcat?style=flat)
 
 **[miniserve](https://github.com/svenstaro/miniserve)**
-is "a CLI tool to serve files and dirs over HTTP". I use this as a replacement for `python -m SimpleHTTPServer`, or whatever the latest version of that command is.
+is "a CLI tool to serve files and dirs over HTTP". I use this as a replacement for `python -m http.server`.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/svenstaro/miniserve) ![GitHub last commit](https://img.shields.io/github/last-commit/svenstaro/miniserve?style=flat)) 
 
 **[monolith](https://github.com/y2z/monolith)**
