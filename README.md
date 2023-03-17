@@ -6,18 +6,15 @@ The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, rip
 
 **[atuin](https://github.com/ellie/atuin)** 
 "Magical shell history"
-
-![GitHub Repo stars](https://img.shields.io/github/stars/ellie/atuin?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ellie/atuin?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ellie/atuin?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ellie/atuin?style=flat)
 
 **[bandwhich](https://github.com/imsnif/bandwhich)**
 Terminal bandwidth utilization tool 
-
-![GitHub Repo stars](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/bandwhich?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/imsnif/bandwhich?style=flat)
 
 **[bat](https://github.com/sharkdp/bat)**
 A replacement for `cat` that provides syntax highlighting and other features. 
-
-![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/bat?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/bat?style=flat)
 
 **[bottom](https://github.com/ClementTsang/bottom)**
 Yet another cross-platform graphical process/system monitor. 
@@ -25,239 +22,239 @@ Yet another cross-platform graphical process/system monitor.
 
 **[broot](https://github.com/Canop/broot)**
 A new way to see and navigate directory trees
-![GitHub Repo stars](https://img.shields.io/github/stars/Canop/broot?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/broot?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/broot?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/broot?style=flat)
 
 **[choose](https://github.com/theryangeary/choose)**
 A human-friendly and fast alternative to `cut` and (sometimes) `awk`
-![GitHub Repo stars](https://img.shields.io/github/stars/theryangeary/choose?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/theryangeary/choose?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/theryangeary/choose?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/theryangeary/choose?style=flat)
 
 **[counts](https://github.com/nnethercote/counts)**
 "A tool for ad hoc profiling"
-![GitHub Repo stars](https://img.shields.io/github/stars/nnethercote/counts?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/nnethercote/counts?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/nnethercote/counts?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/nnethercote/counts?style=flat)
 
 **[delta](https://github.com/dandavison/delta)**
 A syntax-highlighting pager for git, `diff`, and grep output 
-![GitHub Repo stars](https://img.shields.io/github/stars/dandavison/delta?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/dandavison/delta?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/dandavison/delta?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/dandavison/delta?style=flat)
 
 **[difftastic](https://github.com/Wilfred/difftastic/)**
 A syntax-aware diff  
-![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic/?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Wilfred/difftastic/?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic/?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Wilfred/difftastic/?style=flat)
 
 **[dog](https://github.com/ogham/dog)**
 A command-line DNS client
-![GitHub Repo stars](https://img.shields.io/github/stars/ogham/dog?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ogham/dog?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ogham/dog?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ogham/dog?style=flat)
 
 **[dua](https://github.com/Byron/dua-cli)**
 "View disk space usage and delete unwanted data, fast."
-![GitHub Repo stars](https://img.shields.io/github/stars/Byron/dua-cli?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Byron/dua-cli?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Byron/dua-cli?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Byron/dua-cli?style=flat)
 
 **[dust](https://github.com/bootandy/dust)**
 "a more intuitive version of `du` in Rust"
-![GitHub Repo stars](https://img.shields.io/github/stars/bootandy/dust?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/bootandy/dust?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/bootandy/dust?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/bootandy/dust?style=flat)
 
 **[exa](https://github.com/ogham/exa/)**
 "A modern version of `ls`". Note: As of March 2023, the latest release is from April 2021. See [this discussion re: maintenance](https://github.com/ogham/exa/issues/1139). ([website](https://the.exa.website/))
-![GitHub Repo stars](https://img.shields.io/github/stars/ogham/exa?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ogham/exa?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ogham/exa?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ogham/exa?style=flat)
 
 **[fclones](https://github.com/pkolaczk/fclones)**
 an "efficient duplicate file finder" 
-![GitHub Repo stars](https://img.shields.io/github/stars/pkolaczk/fclones?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/pkolaczk/fclones?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/pkolaczk/fclones?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/pkolaczk/fclones?style=flat)
 
 **[fd](https://github.com/sharkdp/fd)**
 "A simple, fast and user-friendly alternative to `find`"
-![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/fd?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/fd?style=flat)
 
 **[felix](https://github.com/kyoheiu/felix)**
 tui file manager with vim-like key mapping 
-![GitHub Repo stars](https://img.shields.io/github/stars/kyoheiu/felix?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/kyoheiu/felix?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/kyoheiu/felix?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/kyoheiu/felix?style=flat)
 
 **[ffsend](https://github.com/timvisee/ffsend)**
 "Easily and securely share files from the command line. A fully featured Firefox Send client."
-![GitHub Repo stars](https://img.shields.io/github/stars/timvisee/ffsend?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/timvisee/ffsend?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/timvisee/ffsend?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/timvisee/ffsend?style=flat)
 
 **[frum](https://github.com/TaKO8Ki/frum)**
 A modern Ruby version manager written in Rust
-![GitHub Repo stars](https://img.shields.io/github/stars/TaKO8Ki/frum?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/TaKO8Ki/frum?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/TaKO8Ki/frum?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/TaKO8Ki/frum?style=flat)
 
 **[fselect](https://github.com/jhspetersson/fselect)**
 "Find files with SQL-like queries"
-![GitHub Repo stars](https://img.shields.io/github/stars/jhspetersson/fselect?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/jhspetersson/fselect?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/jhspetersson/fselect?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/jhspetersson/fselect?style=flat)
 
 **[git-cliff](https://github.com/orhun/git-cliff)**
 "A highly customizable Changelog Generator that follows Conventional Commit specifications"
-![GitHub Repo stars](https://img.shields.io/github/stars/orhun/git-cliff?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/orhun/git-cliff?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/orhun/git-cliff?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/orhun/git-cliff?style=flat)
 
 **[gptman](https://github.com/rust-disk-partition-management/gptman)**
 "A GPT manager that allows you to copy partitions from one disk to another and more"
-![GitHub Repo stars](https://img.shields.io/github/stars/rust-disk-partition-management/gptman?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-disk-partition-management/gptman?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-disk-partition-management/gptman?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-disk-partition-management/gptman?style=flat)
 
 **[grex](https://github.com/pemistahl/grex)**
 A command-line tool and library for generating regular expressions from user-provided test cases 
-![GitHub Repo stars](https://img.shields.io/github/stars/pemistahl/grex?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/pemistahl/grex?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/pemistahl/grex?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/pemistahl/grex?style=flat)
 
 **[himalaya](https://github.com/soywod/himalaya)**
 Command-line interface for email management 
-![GitHub Repo stars](https://img.shields.io/github/stars/soywod/himalaya?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/soywod/himalaya?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/soywod/himalaya?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/soywod/himalaya?style=flat)
 
 **[htmlq](https://github.com/mgdm/htmlq)**
 Like jq, but for HTML. Uses CSS selectors to extract bits of content from HTML files.
-![GitHub Repo stars](https://img.shields.io/github/stars/mgdm/htmlq?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/mgdm/htmlq?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/mgdm/htmlq?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/mgdm/htmlq?style=flat)
 
 **[hyperfine](https://github.com/sharkdp/hyperfine)**
 Command-line benchmarking tool
-![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/hyperfine?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/hyperfine?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/hyperfine?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/hyperfine?style=flat)
 
 **[inlyne](https://github.com/trimental/inlyne)**
 "GPU powered yet browsless tool to help you quickly view markdown files"
-![GitHub Repo stars](https://img.shields.io/github/stars/trimental/inlyne?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/trimental/inlyne?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/trimental/inlyne?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/trimental/inlyne?style=flat)
 
 **[jless](https://github.com/PaulJuliusMartinez/jless)**
 "command-line JSON viewer designed for reading, exploring, and searching through JSON data."
-![GitHub Repo stars](https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/PaulJuliusMartinez/jless?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/PaulJuliusMartinez/jless?style=flat)
 
 **[jql](https://github.com/yamafaktory/jql)**
 A JSON query language CLI tool
-![GitHub Repo stars](https://img.shields.io/github/stars/yamafaktory/jql?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/yamafaktory/jql?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/yamafaktory/jql?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/yamafaktory/jql?style=flat)
 
 **[just](https://github.com/casey/just)**
 Just a command runner (seems like an alternative to `make`)
-![GitHub Repo stars](https://img.shields.io/github/stars/casey/just?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/casey/just?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/casey/just?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/casey/just?style=flat)
 
 **[legdur](https://hg.sr.ht/~cyplo/legdur)**
 A "simple CLI program to compute hashes of large sets of files in large directory structures and compare them with a previous snapshot."
 
 **[lemmeknow](https://github.com/swanandx/lemmeknow)**
 Identify mysterious text or analyze hard-coded strings from captured network packets, malwares, and more.
-![GitHub Repo stars](https://img.shields.io/github/stars/swanandx/lemmeknow?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/swanandx/lemmeknow?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/swanandx/lemmeknow?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/swanandx/lemmeknow?style=flat)
 
 **[lfs](https://github.com/Canop/lfs)**
 A Linux utility to get information on filesystems; like `df` but better 
-![GitHub Repo stars](https://img.shields.io/github/stars/Canop/lfs?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/lfs?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/lfs?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Canop/lfs?style=flat)
 
 **[lsd](https://github.com/Peltoche/lsd)**
 The next generation `ls` command (though personally I prefer `exa`)
-![GitHub Repo stars](https://img.shields.io/github/stars/Peltoche/lsd?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Peltoche/lsd?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Peltoche/lsd?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Peltoche/lsd?style=flat)
 
 **[macchina](https://github.com/macchina-cli/macchina)**
 Fast, minimal and customizable system information frontend.
-![GitHub Repo stars](https://img.shields.io/github/stars/macchina-cli/macchina?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/macchina-cli/macchina?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/macchina-cli/macchina?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/macchina-cli/macchina?style=flat)
 
 **[mdBook](https://github.com/rust-lang/mdBook)**
 Create books from markdown files. Like Gitbook but implemented in Rust 
-![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang/mdBook?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/rust-lang/mdBook?style=flat)
 
 **[mdcat](https://github.com/lunaryorn/mdcat)**
 Fancy `cat` for Markdown
-![GitHub Repo stars](https://img.shields.io/github/stars/lunaryorn/mdcat?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/lunaryorn/mdcat?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/lunaryorn/mdcat?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/lunaryorn/mdcat?style=flat)
 
 **[miniserve](https://github.com/svenstaro/miniserve)**
 is "a CLI tool to serve files and dirs over HTTP". I use this as a replacement for `python -m SimpleHTTPServer`, or whatever the latest version of that command is.
-![GitHub Repo stars](https://img.shields.io/github/stars/svenstaro/miniserve) ![GitHub last commit](https://img.shields.io/github/last-commit/svenstaro/miniserve?style=flat)) 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/svenstaro/miniserve) ![GitHub last commit](https://img.shields.io/github/last-commit/svenstaro/miniserve?style=flat)) 
 
 **[monolith](https://github.com/y2z/monolith)**
 Save complete web pages as a single HTML file 
-![GitHub Repo stars](https://img.shields.io/github/stars/y2z/monolith?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/y2z/monolith?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/y2z/monolith?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/y2z/monolith?style=flat)
 
 **[ouch](https://github.com/ouch-org/ouch)**
 "Painless compression and decompression for your terminal"
-![GitHub Repo stars](https://img.shields.io/github/stars/ouch-org/ouch?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ouch-org/ouch?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ouch-org/ouch?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ouch-org/ouch?style=flat)
 
 **[pastel](https://github.com/sharkdp/pastel)**
 A command-line tool to generate, analyze, convert and manipulate colors.
-![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/pastel?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/pastel?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/pastel?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sharkdp/pastel?style=flat)
 
 **[pipr](https://github.com/Elkowar/pipr)**
 "A tool to interactively write shell pipelines."
-![GitHub Repo stars](https://img.shields.io/github/stars/Elkowar/pipr?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Elkowar/pipr?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Elkowar/pipr?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Elkowar/pipr?style=flat)
 
 **[procs](https://github.com/dalance/procs)**
 A modern replacement for `ps` written in Rust
-![GitHub Repo stars](https://img.shields.io/github/stars/dalance/procs?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/dalance/procs?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/dalance/procs?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/dalance/procs?style=flat)
 
 **[qsv](https://github.com/jqnatividad/qsv)**
 CSVs sliced, diced & analyzed. (A fork of `xsv`)
-![GitHub Repo stars](https://img.shields.io/github/stars/jqnatividad/qsv?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/jqnatividad/qsv?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/jqnatividad/qsv?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/jqnatividad/qsv?style=flat)
 
 **[rargs](https://github.com/lotabout/rargs)**
 xargs + awk with pattern matching support.
-![GitHub Repo stars](https://img.shields.io/github/stars/lotabout/rargs?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/lotabout/rargs?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/lotabout/rargs?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/lotabout/rargs?style=flat)
 
 **[rip](https://github.com/nivekuil/rip)**
 A safe and ergonomic alternative to `rm`
-![GitHub Repo stars](https://img.shields.io/github/stars/nivekuil/rip?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/nivekuil/rip?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/nivekuil/rip?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/nivekuil/rip?style=flat)
 
 **[ripgrep](https://github.com/BurntSushi/ripgrep)**
 A faster replacement for GNU’s `grep` command. This tool is very good. See [ripgrep-all](https://github.com/phiresky/ripgrep-all) to search PDFs, E-Books, Office documents, zip, tar.gz, etc. 
-![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/BurntSushi/ripgrep?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/BurntSushi/ripgrep?style=flat)
 
 **[ripsecrets](https://github.com/sirwart/ripsecrets)**
 Find secret keys in your code before commiting them to git. I've contributed to this one!
-![GitHub Repo stars](https://img.shields.io/github/stars/sirwart/ripsecrets?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sirwart/ripsecrets?style=flat): 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sirwart/ripsecrets?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/sirwart/ripsecrets?style=flat): 
 
 **[rnr](https://github.com/ismaelgv/rnr)**
 "A command-line tool to batch rename files and directories"
-![GitHub Repo stars](https://img.shields.io/github/stars/ismaelgv/rnr?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ismaelgv/rnr?style=flat): 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ismaelgv/rnr?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ismaelgv/rnr?style=flat): 
 
 **[sd](https://github.com/chmln/sd)**
 Intuitive find & replace CLI (`sed` alternative).
-![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/chmln/sd?style=flat): 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/chmln/sd?style=flat): 
 
 **[skim](https://github.com/lotabout/skim)**
 A command-line fuzzy finder.
-![GitHub Repo stars](https://img.shields.io/github/stars/lotabout/skim?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/lotabout/skim?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/lotabout/skim?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/lotabout/skim?style=flat)
 
 **[tealdear](https://github.com/dbrgn/tealdeer)**
 A very fast implementation of `tldr` in Rust. 
-![GitHub Repo stars](https://img.shields.io/github/stars/dbrgn/tealdeer?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/dbrgn/tealdeer?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/dbrgn/tealdeer?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/dbrgn/tealdeer?style=flat)
 
 **[teehee](https://github.com/Gskartwii/teehee)**
 "A modal terminal hex editor"
-![GitHub Repo stars](https://img.shields.io/github/stars/Gskartwii/teehee?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Gskartwii/teehee?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Gskartwii/teehee?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/Gskartwii/teehee?style=flat)
 
 **[tin-summer](https://github.com/vmchale/tin-summer)**
 Find build artifacts that are taking up disk space 
-![GitHub Repo stars](https://img.shields.io/github/stars/vmchale/tin-summer?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/vmchale/tin-summer?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/vmchale/tin-summer?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/vmchale/tin-summer?style=flat)
 
 **[tokei](https://github.com/XAMPPRocky/tokei)**
 Count your (lines of) code, quickly
-![GitHub Repo stars](https://img.shields.io/github/stars/XAMPPRocky/tokei?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/XAMPPRocky/tokei?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/XAMPPRocky/tokei?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/XAMPPRocky/tokei?style=flat)
 
 **[topgrade](https://github.com/topgrade-rs/topgrade)**
 Upgrade all of your tools
-![GitHub Repo stars](https://img.shields.io/github/stars/topgrade-rs/topgrade?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/topgrade-rs/topgrade?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/topgrade-rs/topgrade?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/topgrade-rs/topgrade?style=flat)
 
 **[watchexec](https://github.com/watchexec/watchexec)**
 Execute commands in response to file modifications. (Note: See [cargo watch](https://github.com/watchexec/cargo-watch) if you want to watch a Rust project.)
-![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/watchexec?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/watchexec/watchexec?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/watchexec?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/watchexec/watchexec?style=flat)
 
 **[xcp](https://github.com/tarka/xcp)**
 An extended `cp` 
-![GitHub Repo stars](https://img.shields.io/github/stars/tarka/xcp?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/tarka/xcp?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/tarka/xcp?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/tarka/xcp?style=flat)
 
 **[xh](https://github.com/ducaale/xh)**
 "Friendly and fast tool for sending HTTP requests" 
-![GitHub Repo stars](https://img.shields.io/github/stars/ducaale/xh?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ducaale/xh?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ducaale/xh?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ducaale/xh?style=flat)
 
 **[xsv](https://github.com/BurntSushi/xsv)**
 A fast CSV command line toolkit written in Rust. (Last updated in 2018)
-![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/xsv?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/BurntSushi/ripgrep?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/xsv?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/BurntSushi/ripgrep?style=flat)
 
 **[zoxide](https://github.com/ajeetdsouza/zoxide)**
 A smarter `cd` command.
-![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ajeetdsouza/zoxide?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ajeetdsouza/zoxide?style=flat)
 
 ### Calculators
 **[eva](https://github.com/nerdypepper/eva)** 
 "a calculator REPL, similar to bc(1)"
-![GitHub Repo stars](https://img.shields.io/github/stars/nerdypepper/eva?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/nerdypepper/eva?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/nerdypepper/eva?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/nerdypepper/eva?style=flat)
 
 **[fend](https://github.com/printfn/fend)**
 "Arbitrary-precision unit-aware calculator" ([Documentation](https://printfn.github.io/fend/documentation)). I prefer this calculator.
-![GitHub Repo stars](https://img.shields.io/github/stars/printfn/fend?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/printfn/fend?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/printfn/fend?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/printfn/fend?style=flat)
 
 **[Kalker](https://github.com/PaddiM8/kalker)** 
 "a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals"
-![GitHub Repo stars](https://img.shields.io/github/stars/PaddiM8/kalker?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/PaddiM8/kalker?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/PaddiM8/kalker?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/PaddiM8/kalker?style=flat)
 
 ## Tools to help working with Rust lang itself
 - [bacon](https://github.com/Canop/bacon): A background Rust code checker
