@@ -21,7 +21,7 @@ A replacement for `cat` that provides syntax highlighting and other features.
 
 **[bottom](https://github.com/ClementTsang/bottom)**
 Yet another cross-platform graphical process/system monitor. 
-![GitHub Repo stars](https://img.shields.io/github/stars/ClementTsang/bottom?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ClementTsang/bottom?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ClementTsang/bottom?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/ClementTsang/bottom?style=flat)
 
 **[broot](https://github.com/Canop/broot)**
 A new way to see and navigate directory trees
