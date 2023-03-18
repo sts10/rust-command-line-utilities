@@ -4,7 +4,7 @@ Note that I have not tried all of these personally, and **cannot and do not vouc
 
 The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, ripgrep, just, cargo-audit and cargo-wipe.
 
-## Table
+## Unix-to-Rust replacements (or near-replacements)
 
 |unix|rust                                               |stars                                                                                                |last release                                                                                                  |
 |----|---------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -22,9 +22,7 @@ The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, rip
 |rm  |[rip       ](https://github.com/nivekuil/rip)      |![GitHub Repo stars](https://img.shields.io/github/stars/nivekuil/rip?style=flat-square&label=)      |![GitHub last release](https://img.shields.io/github/release-date/nivekuil/rip?style=flat-square&label=)      |
 |sed |[sd        ](https://github.com/chmln/sd)          |![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat-square&label=)          |![GitHub last release](https://img.shields.io/github/release-date/chmln/sd?style=flat-square&label=)          |
 
-
-
-## As individual paragraphs
+## Full list of Rust tools
 
 **[atuin](https://github.com/ellie/atuin)** 
 "Magical shell history"
