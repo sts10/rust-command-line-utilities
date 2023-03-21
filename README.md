@@ -1,6 +1,6 @@
 # A curated list of command-line utilities written in Rust
 
-Note that I have not tried all of these personally, and **cannot and do not vouch for all of the tools listed here**. In most cases, the descriptions here are copied directly from their code repos. Some may have been abandoned. Investigate before installing/using.
+Note that I have not tried all of these personally and **cannot and do not vouch for all of the tools listed here**. In most cases, the descriptions below are copied directly from their code repos at the time I found them. Some projects may have been abandoned. Investigate before installing/using.
 
 The ones I use regularly use are: bat, fd, fend, hyperfine, miniserve, ripgrep, just, cargo-audit and cargo-wipe. (I'm torn between dust and erdtree...)
 
