@@ -249,6 +249,10 @@ Count your (lines of) code, quickly
 Upgrade all of your tools
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/topgrade-rs/topgrade?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/topgrade-rs/topgrade?style=flat)
 
+**[twin-commander](https://github.com/kivimango/twin-commander)**
+A text mode, twin-panel orthodox file manager
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/kivimango/twin-commander?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/kivimango/twin-commander?style=flat)
+
 **[watchexec](https://github.com/watchexec/watchexec)**
 Execute commands in response to file modifications. (Note: See [cargo watch](https://github.com/watchexec/cargo-watch) if you want to watch a Rust project.)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/watchexec?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/watchexec/watchexec?style=flat)
