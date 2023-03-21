@@ -9,13 +9,14 @@ The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, rip
 |unix|rust                                               |stars                                                                                                |last release                                                                                                  |
 |----|---------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 |cat |[bat       ](https://github.com/sharkdp/bat)       |![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=flat-square&label=)       |![GitHub last release](https://img.shields.io/github/release-date/sharkdp/bat?style=flat-square&label=)       |
-|cd  |[z         ](https://github.com/ajeetdsouza/zoxide)|![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/ajeetdsouza/zoxide?style=flat-square&label=)|
+|cd  |[zoxide    ](https://github.com/ajeetdsouza/zoxide)|![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/ajeetdsouza/zoxide?style=flat-square&label=)|
 |cp  |[xcp       ](https://github.com/tarka/xcp)         |![GitHub Repo stars](https://img.shields.io/github/stars/tarka/xcp?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/tarka/xcp?style=flat-square&label=)         |
 |diff|[delta     ](https://github.com/dandavison/delta)  |![GitHub Repo stars](https://img.shields.io/github/stars/dandavison/delta?style=flat-square&label=)  |![GitHub last release](https://img.shields.io/github/release-date/dandavison/delta?style=flat-square&label=)  |
 |diff|[difftastic](https://github.com/Wilfred/difftastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/Wilfred/difftastic?style=flat-square&label=)|
 |du  |[dust      ](https://github.com/bootandy/dust)     |![GitHub Repo stars](https://img.shields.io/github/stars/bootandy/dust?style=flat-square&label=)     |![GitHub last release](https://img.shields.io/github/release-date/bootandy/dust?style=flat-square&label=)     |
+|du  |[erdtree   ](https://github.com/solidiquis/erdtree)|![GitHub Repo stars](https://img.shields.io/github/stars/solidiquis/erdtre?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/solidiquis/erdtre?style=flat-square&label=)|
 |find|[fd        ](https://github.com/sharkdp/fd)        |![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat-square&label=)        |![GitHub last release](https://img.shields.io/github/release-date/sharkdp/fd?style=flat-square&label=)        |
-|grep|[rg        ](https://github.com/burntsushi/ripgrep)|![GitHub Repo stars](https://img.shields.io/github/stars/burntsushi/ripgrep?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/BurntSushi/ripgrep?style=flat-square&label=)|
+|grep|[ripgrep   ](https://github.com/burntsushi/ripgrep)|![GitHub Repo stars](https://img.shields.io/github/stars/burntsushi/ripgrep?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/BurntSushi/ripgrep?style=flat-square&label=)|
 |ls  |[exa       ](https://github.com/ogham/exa)         |![GitHub Repo stars](https://img.shields.io/github/stars/ogham/exa?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/ogham/exa?style=flat-square&label=)         |
 |ls  |[lsd       ](https://github.com/peltoche/lsd)      |![GitHub Repo stars](https://img.shields.io/github/stars/peltoche/lsd?style=flat-square&label=)      |![GitHub last release](https://img.shields.io/github/release-date/Peltoche/lsd?style=flat-square&label=)      |
 |ps  |[procs     ](https://github.com/dalance/procs)     |![GitHub Repo stars](https://img.shields.io/github/stars/dalance/procs?style=flat-square&label=)      |![GitHub last commit](https://img.shields.io/github/release-date/dalance/procs?style=flat-square&label=)      |
@@ -71,6 +72,10 @@ A command-line DNS client
 **[dust](https://github.com/bootandy/dust)**
 "a more intuitive version of `du` in Rust"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/bootandy/dust?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/bootandy/dust?style=flat)
+
+**[erdtree](https://github.com/solidiquis/erdtree)**
+A multi-threaded file-tree visualizer and disk usage analyzer.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/solidiquis/erdtree?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/solidiquis/erdtree?style=flat)
 
 **[exa](https://github.com/ogham/exa/)**
 "A modern version of `ls`". Note: As of March 2023, the latest release is from April 2021. See [this discussion re: maintenance](https://github.com/ogham/exa/issues/1139). ([website](https://the.exa.website/))
