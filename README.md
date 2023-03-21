@@ -2,7 +2,7 @@
 
 Note that I have not tried all of these personally, and **cannot and do not vouch for all of the tools listed here**. In most cases, the descriptions here are copied directly from their code repos. Some may have been abandoned. Investigate before installing/using.
 
-The ones I use regularly include: bat, dust, fd, fend, hyperfine, miniserve, ripgrep, just, cargo-audit and cargo-wipe.
+The ones I use regularly use are: bat, fd, fend, hyperfine, miniserve, ripgrep, just, cargo-audit and cargo-wipe. (I'm torn between dust and erdtree...)
 
 ## Unix-to-Rust replacements (or near-replacements)
 
@@ -74,7 +74,7 @@ A command-line DNS client
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/bootandy/dust?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/bootandy/dust?style=flat)
 
 **[erdtree](https://github.com/solidiquis/erdtree)**
-A multi-threaded file-tree visualizer and disk usage analyzer.
+A multi-threaded file-tree visualizer and disk usage analyzer. (I usually use it as `et -l 1 -s size <DIR>`)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/solidiquis/erdtree?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/solidiquis/erdtree?style=flat)
 
 **[exa](https://github.com/ogham/exa/)**
