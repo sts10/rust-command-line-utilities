@@ -399,6 +399,10 @@ fi
 - [Medic](https://github.com/sts10/medic): Check the "health" of passwords in a KeePass database 
 - [QRForge](https://github.com/sts10/qr-forge): Safely transform between 32-character TOTP secret keys and their QR codes 
 
-## Know a good one that I don't have listed here?
+## Criteria for submitting a tool to this list
 
-Open an Issue or PR or let me know on [Mastodon](https://hachyderm.io/@schlink).
+If you know of a Rust command line tool that you think would be a good fit for this list, open an issue or a PR. Note that I generally only consider projects that have **100 or more stars on GitHub**, and I reserve the right to reject submissions even if they meet that criteria. 
+
+You're of course welcome to fork this project and maintain your own list! Check the included LICENSE for more information.
+
+<!-- Open an Issue or PR or let me know on [Mastodon](https://hachyderm.io/@schlink). -->
