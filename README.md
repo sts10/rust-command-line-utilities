@@ -221,6 +221,10 @@ Find secret keys in your code before commiting them to git. I've contributed to 
 "A command-line tool to batch rename files and directories"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ismaelgv/rnr?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ismaelgv/rnr?style=flat): 
 
+**[ruplacer](https://github.com/your-tools/ruplacer)**
+Find and replace text in source files 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/your-tools/ruplacer?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/your-tools/ruplacer?style=flat): 
+
 **[sd](https://github.com/chmln/sd)**
 Intuitive find & replace CLI (`sed` alternative).
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/chmln/sd?style=flat): 
