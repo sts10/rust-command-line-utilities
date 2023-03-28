@@ -215,19 +215,19 @@ A faster replacement for GNU’s `grep` command. This tool is very good. See [ri
 
 **[ripsecrets](https://github.com/sirwart/ripsecrets)**
 Find secret keys in your code before commiting them to git. I've contributed to this one!
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/sirwart/ripsecrets?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/sirwart/ripsecrets?style=flat): 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sirwart/ripsecrets?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/sirwart/ripsecrets?style=flat)
 
 **[rnr](https://github.com/ismaelgv/rnr)**
 "A command-line tool to batch rename files and directories"
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/ismaelgv/rnr?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ismaelgv/rnr?style=flat): 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ismaelgv/rnr?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ismaelgv/rnr?style=flat)
 
 **[ruplacer](https://github.com/your-tools/ruplacer)**
 Find and replace text in source files 
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/your-tools/ruplacer?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/your-tools/ruplacer?style=flat): 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/your-tools/ruplacer?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/your-tools/ruplacer?style=flat)
 
 **[sd](https://github.com/chmln/sd)**
 Intuitive find & replace CLI (`sed` alternative).
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/chmln/sd?style=flat): 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/chmln/sd?style=flat)
 
 **[skim](https://github.com/lotabout/skim)**
 A command-line fuzzy finder.
