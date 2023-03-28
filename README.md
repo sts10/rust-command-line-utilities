@@ -223,7 +223,7 @@ Find secret keys in your code before commiting them to git. I've contributed to 
 
 **[ruff](https://github.com/charliermarsh/ruff)**
 An extremely fast Python linter, written in Rust.
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/charliermarsh/ruff?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/charliermarsh/ruff?style=flat): 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/charliermarsh/ruff?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/charliermarsh/ruff?style=flat)
 
 **[ruplacer](https://github.com/your-tools/ruplacer)**
 Find and replace text in source files 
