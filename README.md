@@ -323,6 +323,10 @@ A terminal workspace with batteries included.
 **[lapce](https://github.com/lapce/lapce)**
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/lapce/lapce?style=flat)
 
+**[Ox](https://github.com/curlpipe/ox)**
+An independent Rust text editor that runs in your terminal! 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/curlpipe/ox?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/curlpipe/ox?style=flat)
+
 **[pepper](https://github.com/vamolessa/pepper)**
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/vamolessa/pepper?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/vamolessa/pepper?style=flat)
 
@@ -332,7 +336,7 @@ A terminal workspace with batteries included.
 **[zee](https://github.com/zee-editor/zee)**
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/zee-editor/zee?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/zee-editor/zee?style=flat)
 
-See [this "Battle of the [Rust] text editors" post from 2022](https://matduggan.com/battle-of-the-text-editors/).
+See [this "Battle of the [Rust] text editors" post from 2022](https://matduggan.com/battle-of-the-text-editors/) or [this r/rust post](https://www.reddit.com/r/rust/comments/121l4ek/editors_written_in_rust/).
 
 ## Email clients
 [himalaya](https://github.com/soywod/himalaya)
