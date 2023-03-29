@@ -181,6 +181,10 @@ is "a CLI tool to serve files and dirs over HTTP". I use this as a replacement f
 Save complete web pages as a single HTML file 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/y2z/monolith?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/y2z/monolith?style=flat)
 
+**[mprocs](https://github.com/pvolok/mprocs)**
+Run multiple commands in parallel
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/pvolok/mprocs?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/pvolok/mprocs?style=flat)
+
 **[ouch](https://github.com/ouch-org/ouch)**
 "Painless compression and decompression for your terminal"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ouch-org/ouch?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ouch-org/ouch?style=flat)
