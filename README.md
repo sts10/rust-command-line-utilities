@@ -26,20 +26,20 @@ The ones I use regularly use are: bat, fd, fend, hyperfine, miniserve, ripgrep, 
 
 ## Full list of Rust tools
 
-**[atuin](https://github.com/ellie/atuin)** 
+**[atuin](https://github.com/ellie/atuin)**
 "Magical shell history"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ellie/atuin?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ellie/atuin?style=flat)
 
 **[bandwhich](https://github.com/imsnif/bandwhich)**
-Terminal bandwidth utilization tool 
+Terminal bandwidth utilization tool
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/imsnif/bandwhich?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/imsnif/bandwhich?style=flat)
 
 **[bat](https://github.com/sharkdp/bat)**
-A replacement for `cat` that provides syntax highlighting and other features. 
+A replacement for `cat` that provides syntax highlighting and other features.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/sharkdp/bat?style=flat)
 
 **[bottom](https://github.com/ClementTsang/bottom)**
-Yet another cross-platform graphical process/system monitor. 
+Yet another cross-platform graphical process/system monitor.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ClementTsang/bottom?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ClementTsang/bottom?style=flat)
 
 **[broot](https://github.com/Canop/broot)**
@@ -55,11 +55,11 @@ A human-friendly and fast alternative to `cut` and (sometimes) `awk`
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/nnethercote/counts?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/nnethercote/counts?style=flat)
 
 **[delta](https://github.com/dandavison/delta)**
-A syntax-highlighting pager for git, `diff`, and grep output 
+A syntax-highlighting pager for git, `diff`, and grep output
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/dandavison/delta?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/dandavison/delta?style=flat)
 
 **[difftastic](https://github.com/Wilfred/difftastic/)**
-A syntax-aware diff  
+A syntax-aware diff
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/Wilfred/difftastic?style=flat)
 
 **[dog](https://github.com/ogham/dog)**
@@ -83,7 +83,7 @@ A multi-threaded file-tree visualizer and disk usage analyzer. (I usually use it
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ogham/exa?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ogham/exa?style=flat)
 
 **[fclones](https://github.com/pkolaczk/fclones)**
-an "efficient duplicate file finder" 
+an "efficient duplicate file finder"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/pkolaczk/fclones?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/pkolaczk/fclones?style=flat)
 
 **[fd](https://github.com/sharkdp/fd)**
@@ -91,7 +91,7 @@ an "efficient duplicate file finder"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/sharkdp/fd?style=flat)
 
 **[felix](https://github.com/kyoheiu/felix)**
-tui file manager with vim-like key mapping 
+tui file manager with vim-like key mapping
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/kyoheiu/felix?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/kyoheiu/felix?style=flat)
 
 **[ffsend](https://github.com/timvisee/ffsend)**
@@ -115,11 +115,11 @@ A modern Ruby version manager written in Rust
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-disk-partition-management/gptman?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/rust-disk-partition-management/gptman?style=flat)
 
 **[grex](https://github.com/pemistahl/grex)**
-A command-line tool and library for generating regular expressions from user-provided test cases 
+A command-line tool and library for generating regular expressions from user-provided test cases
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/pemistahl/grex?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/pemistahl/grex?style=flat)
 
 **[himalaya](https://github.com/soywod/himalaya)**
-Command-line interface for email management 
+Command-line interface for email management
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/soywod/himalaya?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/soywod/himalaya?style=flat)
 
 **[htmlq](https://github.com/mgdm/htmlq)**
@@ -154,7 +154,7 @@ Identify mysterious text or analyze hard-coded strings from captured network pac
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/swanandx/lemmeknow?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/swanandx/lemmeknow?style=flat)
 
 **[lfs](https://github.com/Canop/lfs)**
-A Linux utility to get information on filesystems; like `df` but better 
+A Linux utility to get information on filesystems; like `df` but better
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/lfs?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/Canop/lfs?style=flat)
 
 **[lsd](https://github.com/Peltoche/lsd)**
@@ -166,7 +166,7 @@ Fast, minimal and customizable system information frontend.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/macchina-cli/macchina?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/macchina-cli/macchina?style=flat)
 
 **[mdBook](https://github.com/rust-lang/mdBook)**
-Create books from markdown files. Like Gitbook but implemented in Rust 
+Create books from markdown files. Like Gitbook but implemented in Rust
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/rust-lang/mdBook?style=flat)
 
 **[mdcat](https://github.com/lunaryorn/mdcat)**
@@ -178,7 +178,7 @@ is "a CLI tool to serve files and dirs over HTTP". I use this as a replacement f
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/svenstaro/miniserve) ![GitHub last commit](https://img.shields.io/github/release-date/svenstaro/miniserve?style=flat)
 
 **[monolith](https://github.com/y2z/monolith)**
-Save complete web pages as a single HTML file 
+Save complete web pages as a single HTML file
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/y2z/monolith?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/y2z/monolith?style=flat)
 
 **[mprocs](https://github.com/pvolok/mprocs)**
@@ -214,7 +214,7 @@ A safe and ergonomic alternative to `rm`
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/nivekuil/rip?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/nivekuil/rip?style=flat)
 
 **[ripgrep](https://github.com/BurntSushi/ripgrep)**
-A faster replacement for GNU’s `grep` command. This tool is very good. See [ripgrep-all](https://github.com/phiresky/ripgrep-all) to search PDFs, E-Books, Office documents, zip, tar.gz, etc. 
+A faster replacement for GNU’s `grep` command. This tool is very good. See [ripgrep-all](https://github.com/phiresky/ripgrep-all) to search PDFs, E-Books, Office documents, zip, tar.gz, etc.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/BurntSushi/ripgrep?style=flat)
 
 **[ripsecrets](https://github.com/sirwart/ripsecrets)**
@@ -230,7 +230,7 @@ An extremely fast Python linter, written in Rust.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/charliermarsh/ruff?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/charliermarsh/ruff?style=flat)
 
 **[ruplacer](https://github.com/your-tools/ruplacer)**
-Find and replace text in source files 
+Find and replace text in source files
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/your-tools/ruplacer?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/your-tools/ruplacer?style=flat)
 
 **[sd](https://github.com/chmln/sd)**
@@ -242,7 +242,7 @@ A command-line fuzzy finder.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lotabout/skim?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/lotabout/skim?style=flat)
 
 **[tealdear](https://github.com/dbrgn/tealdeer)**
-A very fast implementation of `tldr` in Rust. 
+A very fast implementation of `tldr` in Rust.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/dbrgn/tealdeer?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/dbrgn/tealdeer?style=flat)
 
 **[teehee](https://github.com/Gskartwii/teehee)**
@@ -250,7 +250,7 @@ A very fast implementation of `tldr` in Rust.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/Gskartwii/teehee?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/Gskartwii/teehee?style=flat)
 
 **[tin-summer](https://github.com/vmchale/tin-summer)**
-Find build artifacts that are taking up disk space 
+Find build artifacts that are taking up disk space
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/vmchale/tin-summer?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/vmchale/tin-summer?style=flat)
 
 **[tokei](https://github.com/XAMPPRocky/tokei)**
@@ -266,15 +266,15 @@ Execute commands in response to file modifications. (Note: See [cargo watch](htt
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/watchexec?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/watchexec/watchexec?style=flat)
 
 **[xcp](https://github.com/tarka/xcp)**
-An extended `cp` 
+An extended `cp`
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/tarka/xcp?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/tarka/xcp?style=flat)
 
 **[xh](https://github.com/ducaale/xh)**
-"Friendly and fast tool for sending HTTP requests" 
+"Friendly and fast tool for sending HTTP requests"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ducaale/xh?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ducaale/xh?style=flat)
 
 **[xsv](https://github.com/BurntSushi/xsv)**
-A fast CSV command line toolkit written in Rust. 
+A fast CSV command line toolkit written in Rust.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/xsv?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/BurntSushi/ripgrep?style=flat)
 
 **[zoxide](https://github.com/ajeetdsouza/zoxide)**
@@ -282,7 +282,7 @@ A smarter `cd` command.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ajeetdsouza/zoxide?style=flat)
 
 ### Calculators
-**[eva](https://github.com/nerdypepper/eva)** 
+**[eva](https://github.com/nerdypepper/eva)**
 "a calculator REPL, similar to bc(1)"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/nerdypepper/eva?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/nerdypepper/eva?style=flat)
 
@@ -290,14 +290,14 @@ A smarter `cd` command.
 "Arbitrary-precision unit-aware calculator" ([Documentation](https://printfn.github.io/fend/documentation)). I prefer this calculator.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/printfn/fend?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/printfn/fend?style=flat)
 
-**[Kalker](https://github.com/PaddiM8/kalker)** 
+**[Kalker](https://github.com/PaddiM8/kalker)**
 "a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/PaddiM8/kalker?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/PaddiM8/kalker?style=flat)
 
 ## Terminal emulators / terminal-related
 
 **[Alacritty](https://github.com/alacritty/alacritty)**:
-A cross-platform, OpenGL terminal emulator. 
+A cross-platform, OpenGL terminal emulator.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/alacritty/alacritty?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/alacritty/alacritty?style=flat)
 
 **[Starship](https://starship.rs/)**:
@@ -305,7 +305,7 @@ Customizable prompt for any shell.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/starship/starship?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/starship/starship?style=flat)
 
 **[Wezterm](https://github.com/wez/wezterm)**:
-A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust 
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/wez/wezterm?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/wez/wezterm?style=flat)
 
 **[Zellij](https://github.com/zellij-org/zellij)**:
@@ -320,7 +320,7 @@ A terminal workspace with batteries included.
 **[helix](https://github.com/helix-editor/helix)**
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/helix-editor/helix?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/helix-editor/helix?style=flat)
 
-**[kibi](https://github.com/ilai-deutel/kibi)** 
+**[kibi](https://github.com/ilai-deutel/kibi)**
 "A text editor in ≤1024 lines of code, written in Rust"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ilai-deutel/kibi?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ilai-deutel/kibi?style=flat)
 
@@ -328,7 +328,7 @@ A terminal workspace with batteries included.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/lapce/lapce?style=flat)
 
 **[Ox](https://github.com/curlpipe/ox)**
-An independent Rust text editor that runs in your terminal! 
+An independent Rust text editor that runs in your terminal!
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/curlpipe/ox?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/curlpipe/ox?style=flat)
 
 **[pepper](https://github.com/vamolessa/pepper)**
@@ -354,7 +354,7 @@ A background Rust code checker
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/bacon?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/printfn/fend?style=flat)
 
 **[cargo watch](https://github.com/watchexec/cargo-watch)**:
-Watches over your Cargo project's source. 
+Watches over your Cargo project's source.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/watchexec/cargo-watch?style=flat)
 
 **[cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit)**:
@@ -373,7 +373,7 @@ A cryptographically verifiable code review system for the cargo (Rust) package m
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/axodotdev/cargo-dist?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/axodotdev/cargo-dist?style=flat)
 
 **[cargo-geiger](https://github.com/rust-secure-code/cargo-geiger)**:
-Detects usage of unsafe Rust in a Rust crate and its dependencies. 
+Detects usage of unsafe Rust in a Rust crate and its dependencies.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-secure-code/cargo-geiger?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/rust-secure-code/cargo-geiger?style=flat)
 
 **[cargo-wipe](https://github.com/mihai-dinculescu/cargo-wipe)**:
@@ -412,12 +412,12 @@ fi
 ## Shameless plug: Tools that I've written in Rust
 
 - [Tidy](https://github.com/sts10/tidy): A command-line tool for combining and cleaning large word list files.
-- [Medic](https://github.com/sts10/medic): Check the "health" of passwords in a KeePass database 
-- [QRForge](https://github.com/sts10/qr-forge): Safely transform between 32-character TOTP secret keys and their QR codes 
+- [Medic](https://github.com/sts10/medic): Check the "health" of passwords in a KeePass database
+- [QRForge](https://github.com/sts10/qr-forge): Safely transform between 32-character TOTP secret keys and their QR codes
 
 ## Criteria for submitting a tool to this list
 
-If you know of a Rust command line tool that you think would be a good fit for this list, open an issue or a PR. Note that I generally only consider projects that have **100 or more stars on GitHub**, which I'm hoping means that the program will be a bit battle-tested and ready for real-world use. I also reserve the right to reject submissions even if they meet this criteria. 
+If you know of a Rust command line tool that you think would be a good fit for this list, open an issue or a PR. Note that I generally only consider projects that have **100 or more stars on GitHub**, which I'm hoping means that the program will be a bit battle-tested and ready for real-world use. I also reserve the right to reject submissions even if they meet this criteria.
 
 You're of course welcome to fork this project and maintain your own list! Check the included LICENSE for more information.
 
