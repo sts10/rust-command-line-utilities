@@ -347,6 +347,9 @@ See [this "Battle of the [Rust] text editors" post from 2022](https://matduggan.
 "Command-line interface for email management"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/soywod/himalaya?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/soywod/himalaya?style=flat)
 
+## All core utils!?
+Note that there is ["a cross-platform reimplementation of the GNU coreutils in Rust"](https://github.com/uutils/coreutils). I link it here for those interested, but I argue that it doesn't _quite_ fit into this project's goals.
+
 ## Tools to help working with Rust lang itself
 
 **[bacon](https://github.com/Canop/bacon)**:
