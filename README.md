@@ -138,6 +138,10 @@ Command-line benchmarking tool
 "command-line JSON viewer designed for reading, exploring, and searching through JSON data."
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/PaulJuliusMartinez/jless?style=flat)
 
+**[joshuto](https://github.com/kamiyaa/joshuto)**
+"ranger-like terminal file manager written in Rust"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/kamiyaa/joshuto?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/kamiyaa/joshuto?style=flat)
+
 **[jql](https://github.com/yamafaktory/jql)**
 A JSON query language CLI tool
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/yamafaktory/jql?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/yamafaktory/jql?style=flat)
