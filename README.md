@@ -273,6 +273,10 @@ An extended `cp`
 "Friendly and fast tool for sending HTTP requests"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ducaale/xh?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/ducaale/xh?style=flat)
 
+**[xplr](https://github.com/sayanarijit/xplr)**
+"A hackable, minimal, fast TUI file explorer"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sayanarijit/xplr?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/sayanarijit/xplr?style=flat)
+
 **[xsv](https://github.com/BurntSushi/xsv)**
 A fast CSV command line toolkit written in Rust.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/xsv?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/BurntSushi/ripgrep?style=flat)
@@ -366,6 +370,10 @@ Audit Cargo.lock files for crates with security vulnerabilities reported to the 
 **[cargo-binstall](https://github.com/cargo-bins/cargo-binstall)**:
 "Binary installation for [R]ust projects"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/cargo-bins/bargo-binstall?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/cargo-bins/cargo-binstall?style=flat)
+
+**[cargo-cache](https://github.com/matthiaskrgr/cargo-cache)**
+Display information on the cargo cache (`~/.cargo/` or `$CARGO_HOME`). Optional cache pruning.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/matthiaskrgr/cargo-cache?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/matthiaskrgr/cargo-cache?style=flat)
 
 **[cargo-crev](https://github.com/crev-dev/cargo-crev)**:
 A cryptographically verifiable code review system for the cargo (Rust) package manager.
