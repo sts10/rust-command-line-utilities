@@ -70,6 +70,10 @@ A command-line DNS client
 "View disk space usage and delete unwanted data, fast."
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/Byron/dua-cli?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/Byron/dua-cli?style=flat)
 
+**[dura](https://github.com/tkellogg/dura)**
+"Dura is a background process that watches your Git repositories and commits your uncommitted changes without impacting HEAD, the current branch, or the Git index (staged files)."
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/tkellogg/dura?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/tkellogg/dura?style=flat)
+
 **[dust](https://github.com/bootandy/dust)**
 "a more intuitive version of `du` in Rust"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/bootandy/dust?style=flat) ![GitHub last commit](https://img.shields.io/github/release-date/bootandy/dust?style=flat)
