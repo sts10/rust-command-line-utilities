@@ -14,13 +14,16 @@ The ones I use regularly use are: bat, fd, fend, hyperfine, miniserve, ripgrep, 
 |df  |[lfs       ](https://github.com/Canop/lfs)         |![GitHub Repo stars](https://img.shields.io/github/stars/Canop/lfs?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/Canop/lfs?style=flat-square&label=)         |
 |diff|[delta     ](https://github.com/dandavison/delta)  |![GitHub Repo stars](https://img.shields.io/github/stars/dandavison/delta?style=flat-square&label=)  |![GitHub last release](https://img.shields.io/github/release-date/dandavison/delta?style=flat-square&label=)  |
 |diff|[difftastic](https://github.com/Wilfred/difftastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/Wilfred/difftastic?style=flat-square&label=)|
+|du  |[dua       ](https://github.com/Byron/dua-cli)     |![GitHub Repo stars](https://img.shields.io/github/stars/Byron/dua-cli?style=flat-square&label=)     |![GitHub last release](https://img.shields.io/github/release-date/Byron/dua-cli?style=flat-square&label=)     |
 |du  |[dust      ](https://github.com/bootandy/dust)     |![GitHub Repo stars](https://img.shields.io/github/stars/bootandy/dust?style=flat-square&label=)     |![GitHub last release](https://img.shields.io/github/release-date/bootandy/dust?style=flat-square&label=)     |
+|du  |[dutree    ](https://github.com/nachoparker/dutree)|![GitHub Repo stars](https://img.shields.io/github/stars/nachoparker/dutree?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/nachoparker/dutree?style=flat-square&label=)|
 |du  |[erdtree   ](https://github.com/solidiquis/erdtree)|![GitHub Repo stars](https://img.shields.io/github/stars/solidiquis/erdtree?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/solidiquis/erdtree?style=flat-square&label=)|
+|du  |[pdu       ](https://github.com/KSXGitHub/parallel-disk-usage)|![GitHub Repo stars](https://img.shields.io/github/stars/KSXGitHub/parallel-disk-usage?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/KSXGitHub/parallel-disk-usage?style=flat-square&label=)|
 |find|[fd        ](https://github.com/sharkdp/fd)        |![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat-square&label=)        |![GitHub last release](https://img.shields.io/github/release-date/sharkdp/fd?style=flat-square&label=)        |
 |grep|[ripgrep   ](https://github.com/burntsushi/ripgrep)|![GitHub Repo stars](https://img.shields.io/github/stars/burntsushi/ripgrep?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/BurntSushi/ripgrep?style=flat-square&label=)|
 |ls  |[exa       ](https://github.com/ogham/exa)         |![GitHub Repo stars](https://img.shields.io/github/stars/ogham/exa?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/ogham/exa?style=flat-square&label=)         |
 |ls  |[lsd       ](https://github.com/peltoche/lsd)      |![GitHub Repo stars](https://img.shields.io/github/stars/peltoche/lsd?style=flat-square&label=)      |![GitHub last release](https://img.shields.io/github/release-date/Peltoche/lsd?style=flat-square&label=)      |
-|ps  |[procs     ](https://github.com/dalance/procs)     |![GitHub Repo stars](https://img.shields.io/github/stars/dalance/procs?style=flat-square&label=)      |![GitHub last release](https://img.shields.io/github/release-date/dalance/procs?style=flat-square&label=)      |
+|ps  |[procs     ](https://github.com/dalance/procs)     |![GitHub Repo stars](https://img.shields.io/github/stars/dalance/procs?style=flat-square&label=)     |![GitHub last release](https://img.shields.io/github/release-date/dalance/procs?style=flat-square&label=)     |
 |rm  |[rip       ](https://github.com/nivekuil/rip)      |![GitHub Repo stars](https://img.shields.io/github/stars/nivekuil/rip?style=flat-square&label=)      |![GitHub last release](https://img.shields.io/github/release-date/nivekuil/rip?style=flat-square&label=)      |
 |sed |[sd        ](https://github.com/chmln/sd)          |![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat-square&label=)          |![GitHub last release](https://img.shields.io/github/release-date/chmln/sd?style=flat-square&label=)          |
 
@@ -77,6 +80,10 @@ A command-line DNS client
 **[dust](https://github.com/bootandy/dust)**
 "a more intuitive version of `du` in Rust"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/bootandy/dust?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/bootandy/dust?style=flat)
+
+**[dutree](https://github.com/nachoparker/dutree)**
+"a tool to analyze file system usage written in Rust"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/nachoparker/dutree?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/nachoparker/dutree?style=flat)
 
 **[erdtree](https://github.com/solidiquis/erdtree)**
 A multi-threaded file-tree visualizer and disk usage analyzer. (I usually use it as `et -l 1 -s size <DIR>`)
@@ -200,6 +207,10 @@ Run multiple commands in parallel
 **[pastel](https://github.com/sharkdp/pastel)**
 A command-line tool to generate, analyze, convert and manipulate colors.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/pastel?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sharkdp/pastel?style=flat)
+
+**[pdu](https://github.com/KSXGitHub/parallel-disk-usage)**
+"Highly parallelized, blazing fast directory tree analyzer"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/KSXGitHub/parallel-disk-usage?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/KSXGitHub/parallel-disk-usage?style=flat)
 
 **[pipr](https://github.com/Elkowar/pipr)**
 "A tool to interactively write shell pipelines."
