@@ -300,6 +300,10 @@ An extended `cp`
 A fast CSV command line toolkit written in Rust.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/xsv?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/BurntSushi/ripgrep?style=flat)
 
+**[zet](https://github.com/yarrow/zet)**
+Take the union, intersection, difference, etc of files — compare to `uniq` and `comm`.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/yarrow/zet?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/yarrow/zet?style=flat)
+
 **[zoxide](https://github.com/ajeetdsouza/zoxide)**
 A smarter `cd` command.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ajeetdsouza/zoxide?style=flat)
