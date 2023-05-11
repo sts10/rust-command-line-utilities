@@ -428,6 +428,12 @@ else
 fi
 ```
 
+### `bat` alias to act more like `cat`
+
+```bash
+alias cat=bat --paging=never
+```
+
 ## Shameless plug: Tools that I've written in Rust
 
 **[Tidy](https://github.com/sts10/tidy)**
