@@ -8,6 +8,7 @@ The ones I use regularly use are: bat, fd, fend, hyperfine, miniserve, ripgrep, 
 
 |unix|rust                                               |stars                                                                                                |last release                                                                                                  |
 |----|---------------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+|cal |[carl      ](https://github.com/b1rger/carl)       |![GitHub Repo stars](https://img.shields.io/github/stars/b1rger/carl?style=flat-square&label=)       |![GitHub last release](https://img.shields.io/github/release-date/b1rger/carl?style=flat-square&label=)       |
 |cat |[bat       ](https://github.com/sharkdp/bat)       |![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=flat-square&label=)       |![GitHub last release](https://img.shields.io/github/release-date/sharkdp/bat?style=flat-square&label=)       |
 |cd  |[zoxide    ](https://github.com/ajeetdsouza/zoxide)|![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/ajeetdsouza/zoxide?style=flat-square&label=)|
 |cp  |[xcp       ](https://github.com/tarka/xcp)         |![GitHub Repo stars](https://img.shields.io/github/stars/tarka/xcp?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/tarka/xcp?style=flat-square&label=)         |
@@ -48,6 +49,10 @@ Yet another cross-platform graphical process/system monitor.
 **[broot](https://github.com/Canop/broot)**
 A new way to see and navigate directory trees
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/broot?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/Canop/broot?style=flat)
+
+**[carl](https://github.com/b1rger/carl)**
+A calendar for the commandline with colors and ical support
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/b1rger/carl?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/b1rger/carl?style=flat)
 
 **[choose](https://github.com/theryangeary/choose)**
 A human-friendly and fast alternative to `cut` and (sometimes) `awk`
