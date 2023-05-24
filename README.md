@@ -388,7 +388,7 @@ Watches over your Cargo project's source.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/watchexec/cargo-watch?style=flat)
 
 **[cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit)**:
-Audit Cargo.lock files for crates with security vulnerabilities reported to the RustSec Advisory Database. See also: [cargo-deny](https://github.com/EmbarkStudios/cargo-deny).
+Audit Cargo.lock files for crates with security vulnerabilities reported to the RustSec Advisory Database. See also: [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) and/or [cargo-about](https://github.com/EmbarkStudios/cargo-about).
 
 **[cargo-binstall](https://github.com/cargo-bins/cargo-binstall)**:
 "Binary installation for [R]ust projects"
