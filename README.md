@@ -145,6 +145,10 @@ Command-line benchmarking tool
 "GPU powered yet browsless tool to help you quickly view markdown files"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/trimental/inlyne?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/trimental/inlyne?style=flat)
 
+**[intelli-shell](https://github.com/lasantosr/intelli-shell)**
+"Like IntelliSense, but for shells"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/lasantosr/intelli-shell?style=flat)
+
 **[jless](https://github.com/PaulJuliusMartinez/jless)**
 "command-line JSON viewer designed for reading, exploring, and searching through JSON data."
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/PaulJuliusMartinez/jless?style=flat)
