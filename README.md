@@ -312,6 +312,10 @@ Take the union, intersection, difference, etc of files — compare to `uniq` and
 A smarter `cd` command.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ajeetdsouza/zoxide?style=flat)
 
+**[med](https://github.com/jayhuang75/rust-cli-med)**:
+M.E.D. (Mask, Encrypt, Decrypt) - a RUST powered CLI tool for CSV/JSON files
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/jayhuang75/rust-cli-med?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/jayhuang75/rust-cli-med?style=flat)
+
 ### Calculators
 **[eva](https://github.com/nerdypepper/eva)**
 "a calculator REPL, similar to bc(1)"
