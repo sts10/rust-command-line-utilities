@@ -184,6 +184,10 @@ The next generation `ls` command (though personally I prefer `exa`)
 Fast, minimal and customizable system information frontend.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/macchina-cli/macchina?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/macchina-cli/macchina?style=flat)
 
+**[mcfly](https://github.com/cantino/mcfly)**
+Fly through your shell history.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/cantino/mcfly?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/cantino/mcfly?style=flat)
+
 **[mdBook](https://github.com/rust-lang/mdBook)**
 Create books from markdown files. Like Gitbook but implemented in Rust
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-lang/mdBook?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/rust-lang/mdBook?style=flat)
@@ -193,7 +197,7 @@ Fancy `cat` for Markdown
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lunaryorn/mdcat?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/lunaryorn/mdcat?style=flat)
 
 **[miniserve](https://github.com/svenstaro/miniserve)**
-is "a CLI tool to serve files and dirs over HTTP". I use this as a replacement for `python -m http.server`.
+A "CLI tool to serve files and dirs over HTTP". I use this as a replacement for `python -m http.server`.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/svenstaro/miniserve) ![GitHub last release](https://img.shields.io/github/release-date/svenstaro/miniserve?style=flat)
 
 **[monolith](https://github.com/y2z/monolith)**
@@ -223,6 +227,10 @@ A command-line tool to generate, analyze, convert and manipulate colors.
 **[procs](https://github.com/dalance/procs)**
 A modern replacement for `ps` written in Rust
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/dalance/procs?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/dalance/procs?style=flat)
+
+**[pueue](https://github.com/Nukesor/pueue)**
+A command-line task management tool for sequential and parallel execution of long-running tasks.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Nukesor/pueue?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/Nukesor/pueue?style=flat)
 
 **[qsv](https://github.com/jqnatividad/qsv)**
 CSVs sliced, diced & analyzed. (A fork of `xsv`)
