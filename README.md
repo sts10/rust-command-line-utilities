@@ -41,6 +41,10 @@ Terminal bandwidth utilization tool
 A replacement for `cat` that provides syntax highlighting and other features.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sharkdp/bat?style=flat)
 
+**[bartib](https://github.com/nikolassv/bartib)**
+A simple timetracker for the command line.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/nikolassv/bartib?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/nikolassv/bartib?style=flat)
+
 **[bottom](https://github.com/ClementTsang/bottom)**
 Yet another cross-platform graphical process/system monitor.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ClementTsang/bottom?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ClementTsang/bottom?style=flat)
