@@ -11,7 +11,7 @@ The ones I use regularly use are: bat, fd, fend, hyperfine, miniserve, ripgrep, 
 |cat |[bat       ](https://github.com/sharkdp/bat)       |![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/bat?style=flat-square&label=)       |![GitHub last release](https://img.shields.io/github/release-date/sharkdp/bat?style=flat-square&label=)       |
 |cd  |[zoxide    ](https://github.com/ajeetdsouza/zoxide)|![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/ajeetdsouza/zoxide?style=flat-square&label=)|
 |cp  |[xcp       ](https://github.com/tarka/xcp)         |![GitHub Repo stars](https://img.shields.io/github/stars/tarka/xcp?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/tarka/xcp?style=flat-square&label=)         |
-|df  |[lfs       ](https://github.com/Canop/lfs)         |![GitHub Repo stars](https://img.shields.io/github/stars/Canop/lfs?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/Canop/lfs?style=flat-square&label=)         |
+|df  |[dysk       ](https://github.com/Canop/dysk)         |![GitHub Repo stars](https://img.shields.io/github/stars/Canop/dysk?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/Canop/dysk?style=flat-square&label=)         |
 |diff|[delta     ](https://github.com/dandavison/delta)  |![GitHub Repo stars](https://img.shields.io/github/stars/dandavison/delta?style=flat-square&label=)  |![GitHub last release](https://img.shields.io/github/release-date/dandavison/delta?style=flat-square&label=)  |
 |diff|[difftastic](https://github.com/Wilfred/difftastic)|![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/Wilfred/difftastic?style=flat-square&label=)|
 |du  |[dua       ](https://github.com/Byron/dua-cli)     |![GitHub Repo stars](https://img.shields.io/github/stars/Byron/dua-cli?style=flat-square&label=)     |![GitHub last release](https://img.shields.io/github/release-date/Byron/dua-cli?style=flat-square&label=)     |
@@ -172,9 +172,9 @@ A "simple CLI program to compute hashes of large sets of files in large director
 Identify mysterious text or analyze hard-coded strings from captured network packets, malwares, and more.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/swanandx/lemmeknow?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/swanandx/lemmeknow?style=flat)
 
-**[lfs](https://github.com/Canop/lfs)**
-A Linux utility to get information on filesystems; like `df` but better
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/lfs?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/Canop/lfs?style=flat)
+**[dysk](https://github.com/Canop/dysk)**
+"A linux utility to get information on filesystems, like `df` but better"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/dysk?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/Canop/dysk?style=flat)
 
 **[lsd](https://github.com/Peltoche/lsd)**
 The next generation `ls` command (though personally I prefer `exa`)
