@@ -365,7 +365,7 @@ A complete text editor for your terminal.
 A post-modern modal text editor.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/helix-editor/helix?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/helix-editor/helix?style=flat)
 
-**[kibi](https://github.com/ilai-deutel/kibi)**
+**[kibi](https://github.com/ilai-deutel/kibi)**:
 "A text editor in ≤1024 lines of code, written in Rust"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ilai-deutel/kibi?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ilai-deutel/kibi?style=flat)
 
@@ -373,7 +373,7 @@ A post-modern modal text editor.
 Lightning-fast and Powerful Code Editor written in Rust 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/lapce/lapce?style=flat)
 
-**[Ox](https://github.com/curlpipe/ox)**
+**[Ox](https://github.com/curlpipe/ox)**:
 An independent Rust text editor that runs in your terminal!
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/curlpipe/ox?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/curlpipe/ox?style=flat)
 
