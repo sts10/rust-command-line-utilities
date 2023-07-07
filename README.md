@@ -89,6 +89,10 @@ A command-line DNS client
 "a tool to analyze file system usage written in Rust"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/nachoparker/dutree?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/nachoparker/dutree?style=flat)
 
+**[dysk](https://github.com/Canop/dysk)**
+"A linux utility to get information on filesystems, like `df` but better"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/dysk?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/Canop/dysk?style=flat)
+
 **[erdtree](https://github.com/solidiquis/erdtree)**
 A multi-threaded file-tree visualizer and disk usage analyzer. (I usually use it as `et -l 1 -s size <DIR>`)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/solidiquis/erdtree?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/solidiquis/erdtree?style=flat)
@@ -175,10 +179,6 @@ A "simple CLI program to compute hashes of large sets of files in large director
 **[lemmeknow](https://github.com/swanandx/lemmeknow)**
 Identify mysterious text or analyze hard-coded strings from captured network packets, malwares, and more.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/swanandx/lemmeknow?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/swanandx/lemmeknow?style=flat)
-
-**[dysk](https://github.com/Canop/dysk)**
-"A linux utility to get information on filesystems, like `df` but better"
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/dysk?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/Canop/dysk?style=flat)
 
 **[lsd](https://github.com/Peltoche/lsd)**
 The next generation `ls` command (though personally I prefer `exa`)
@@ -357,30 +357,36 @@ A terminal workspace with batteries included.
 
 ## Text editors written in Rust
 
-**[amp](https://github.com/jmacdonald/amp)**
+**[amp](https://github.com/jmacdonald/amp)**:
+A complete text editor for your terminal. 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/jmacdonald/amp?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/zellij-org/zellij?style=flat)
 
-**[helix](https://github.com/helix-editor/helix)**
+**[helix](https://github.com/helix-editor/helix)**:
+A post-modern modal text editor.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/helix-editor/helix?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/helix-editor/helix?style=flat)
 
 **[kibi](https://github.com/ilai-deutel/kibi)**
 "A text editor in ≤1024 lines of code, written in Rust"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ilai-deutel/kibi?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ilai-deutel/kibi?style=flat)
 
-**[lapce](https://github.com/lapce/lapce)**
+**[lapce](https://github.com/lapce/lapce)**:
+Lightning-fast and Powerful Code Editor written in Rust 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/lapce/lapce?style=flat)
 
 **[Ox](https://github.com/curlpipe/ox)**
 An independent Rust text editor that runs in your terminal!
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/curlpipe/ox?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/curlpipe/ox?style=flat)
 
-**[pepper](https://github.com/vamolessa/pepper)**
+**[pepper](https://github.com/vamolessa/pepper)**:
+A simple and opinionated modal code editor for your terminal 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/vamolessa/pepper?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/vamolessa/pepper?style=flat)
 
-**[xi](https://github.com/xi-editor/xi-editor)**
+**[xi](https://github.com/xi-editor/xi-editor)**:
+A modern editor with a backend written in Rust. 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/zellij-org/zellij?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/zellij-org/zellij?style=flat)
 
-**[zee](https://github.com/zee-editor/zee)**
+**[zee](https://github.com/zee-editor/zee)**:
+A modern text editor for the terminal written in Rust 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/zee-editor/zee?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/zee-editor/zee?style=flat)
 
 See [this "Battle of the [Rust] text editors" post from 2022](https://matduggan.com/battle-of-the-text-editors/) or [this r/rust post](https://www.reddit.com/r/rust/comments/121l4ek/editors_written_in_rust/).
