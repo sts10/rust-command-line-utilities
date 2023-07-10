@@ -432,6 +432,10 @@ A cryptographically verifiable code review system for the cargo (Rust) package m
 Detects usage of unsafe Rust in a Rust crate and its dependencies.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-secure-code/cargo-geiger?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/rust-secure-code/cargo-geiger?style=flat)
 
+**[cargo-show-asm](https://github.com/pacak/cargo-show-asm)**:
+Shows asm, LLVM, MIR and similar low level stuff for your code
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/pacak/cargo-show-asm?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/pacak/cargo-show-asm?style=flat)
+
 **[cargo-wipe](https://github.com/mihai-dinculescu/cargo-wipe)**:
 Cargo subcommand that recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path. See also: [kondo](https://github.com/tbillington/kondo).
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/mihai-dinculescu/cargo-wipe?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/mihai-dinculescu/cargo-wipe?style=flat)
