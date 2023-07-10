@@ -358,7 +358,7 @@ A terminal workspace with batteries included.
 ## Text editors written in Rust
 
 **[amp](https://github.com/jmacdonald/amp)**:
-A complete text editor for your terminal. 
+A complete text editor for your terminal.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/jmacdonald/amp?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/zellij-org/zellij?style=flat)
 
 **[helix](https://github.com/helix-editor/helix)**:
@@ -370,7 +370,7 @@ A post-modern modal text editor.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ilai-deutel/kibi?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ilai-deutel/kibi?style=flat)
 
 **[lapce](https://github.com/lapce/lapce)**:
-Lightning-fast and Powerful Code Editor written in Rust 
+Lightning-fast and Powerful Code Editor written in Rust
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/lapce/lapce?style=flat)
 
 **[Ox](https://github.com/curlpipe/ox)**:
@@ -378,15 +378,15 @@ An independent Rust text editor that runs in your terminal!
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/curlpipe/ox?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/curlpipe/ox?style=flat)
 
 **[pepper](https://github.com/vamolessa/pepper)**:
-A simple and opinionated modal code editor for your terminal 
+A simple and opinionated modal code editor for your terminal
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/vamolessa/pepper?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/vamolessa/pepper?style=flat)
 
 **[xi](https://github.com/xi-editor/xi-editor)**:
-A modern editor with a backend written in Rust. 
+A modern editor with a backend written in Rust.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/zellij-org/zellij?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/zellij-org/zellij?style=flat)
 
 **[zee](https://github.com/zee-editor/zee)**:
-A modern text editor for the terminal written in Rust 
+A modern text editor for the terminal written in Rust
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/zee-editor/zee?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/zee-editor/zee?style=flat)
 
 See [this "Battle of the [Rust] text editors" post from 2022](https://matduggan.com/battle-of-the-text-editors/) or [this r/rust post](https://www.reddit.com/r/rust/comments/121l4ek/editors_written_in_rust/).
@@ -431,6 +431,10 @@ A cryptographically verifiable code review system for the cargo (Rust) package m
 **[cargo-geiger](https://github.com/rust-secure-code/cargo-geiger)**:
 Detects usage of unsafe Rust in a Rust crate and its dependencies.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-secure-code/cargo-geiger?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/rust-secure-code/cargo-geiger?style=flat)
+
+**[cargo-show-asm](https://github.com/pacak/cargo-show-asm)**:
+Shows asm, LLVM, MIR and similar low level stuff for your code
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/pacak/cargo-show-asm?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/pacak/cargo-show-asm?style=flat)
 
 **[cargo-wipe](https://github.com/mihai-dinculescu/cargo-wipe)**:
 Cargo subcommand that recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path. See also: [kondo](https://github.com/tbillington/kondo).
@@ -481,7 +485,7 @@ A Swiss army knife for word lists
 Check the "health" of passwords in a KeePass database
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/sts10/medic?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sts10/medic?style=flat)
 
-**[QRForge](https://github.com/sts10/qr-forge)** 
+**[QRForge](https://github.com/sts10/qr-forge)**
 Safely transform between 32-character TOTP secret keys and their QR codes
 <br>![GitHub last release](https://img.shields.io/github/release-date/sts10/qr-forge?style=flat)
 
