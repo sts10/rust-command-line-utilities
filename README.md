@@ -293,7 +293,7 @@ Count your (lines of) code, quickly
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/XAMPPRocky/tokei?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/XAMPPRocky/tokei?style=flat)
 
 **[topgrade](https://github.com/topgrade-rs/topgrade)**
-Upgrade all of your tools
+Upgrade all of your tools. (July 2023: [Maintainers wanted](https://github.com/topgrade-rs/topgrade#maintainers-wanted).)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/topgrade-rs/topgrade?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/topgrade-rs/topgrade?style=flat)
 
 **[watchexec](https://github.com/watchexec/watchexec)**
