@@ -137,6 +137,10 @@ A modern Ruby version manager written in Rust
 A command-line tool and library for generating regular expressions from user-provided test cases
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/pemistahl/grex?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/pemistahl/grex?style=flat)
 
+**[heh](https://github.com/ndd7xv/heh)**
+"A terminal UI to edit bytes by the nibble"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ndd7xv/heh?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ndd7xv/heh?style=flat)
+
 **[himalaya](https://github.com/soywod/himalaya)**
 Command-line interface for email management
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/soywod/himalaya?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/soywod/himalaya?style=flat)
