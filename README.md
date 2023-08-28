@@ -98,7 +98,7 @@ A multi-threaded file-tree visualizer and disk usage analyzer. (I usually use it
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/solidiquis/erdtree?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/solidiquis/erdtree?style=flat)
 
 **[exa](https://github.com/ogham/exa/)**
-"A modern version of `ls`". Note: See [this discussion re: maintenance](https://github.com/ogham/exa/issues/1139). ([website](https://the.exa.website/))
+"A modern version of `ls`". Note: See [this discussion re: maintenance](https://github.com/ogham/exa/issues/1139). It looks like there's a more active fork called [eza](https://github.com/eza-community/eza).
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ogham/exa?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ogham/exa?style=flat)
 
 **[fclones](https://github.com/pkolaczk/fclones)**
