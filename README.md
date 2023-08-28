@@ -460,27 +460,41 @@ A "bit-precise model checker for Rust."
 
 ## Tips
 
-### `exa` aliases I use in my `~/.bashrc`
-
-```bash
-if hash exa 2>/dev/null; then
-    alias ls='exa'
-    alias l='exa -l --all --group-directories-first --git'
-    alias ll='exa -l --all --all --group-directories-first --git'
-    alias lt='exa -T --git-ignore --level=2 --group-directories-first'
-    alias llt='exa -lT --git-ignore --level=2 --group-directories-first'
-    alias lT='exa -T --git-ignore --level=4 --group-directories-first'
-else
-    alias l='ls -lah'
-    alias ll='ls -alF'
-    alias la='ls -A'
-fi
-```
-
 ### `bat` alias to act more like `cat`
 
 ```bash
 alias cat=bat --paging=never
+```
+
+### Aliases for `ls` I use in my `~/.bashrc`
+
+```bash
+if hash lsd 2>/dev/null; then
+        alias ls='lsd'
+        alias l='lsd -l --all --group-directories-first'
+        alias ll='lsd -l --all --group-directories-first'
+        alias lt='lsd --tree --depth=2 --group-directories-first'
+        alias llt='lsd -l --tree --depth=2 --group-directories-first'
+        alias lT='lsd --tree --depth=4 --group-directories-first'
+elif hash eza 2>/dev/null; then
+        alias ls='eza'
+        alias l='eza -l --all --group-directories-first --git'
+        alias ll='eza -l --all --all --group-directories-first --git'
+        alias lt='eza -T --git-ignore --level=2 --group-directories-first'
+        alias llt='eza -lT --git-ignore --level=2 --group-directories-first'
+        alias lT='eza -T --git-ignore --level=4 --group-directories-first'
+elif hash exa 2>/dev/null; then
+        alias ls='exa'
+        alias l='exa -l --all --group-directories-first --git'
+        alias ll='exa -l --all --all --group-directories-first --git'
+        alias lt='exa -T --git-ignore --level=2 --group-directories-first'
+        alias llt='exa -lT --git-ignore --level=2 --group-directories-first'
+        alias lT='exa -T --git-ignore --level=4 --group-directories-first'
+else
+        alias l='ls -lah'
+        alias ll='ls -alF'
+        alias la='ls -A'
+fi
 ```
 
 ## Shameless plug: Tools that I've written in Rust
