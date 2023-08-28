@@ -277,8 +277,12 @@ Intuitive find & replace CLI (`sed` alternative).
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/chmln/sd?style=flat)
 
 **[skim](https://github.com/lotabout/skim)**
-A command-line fuzzy finder.
+A command-line fuzzy finder
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lotabout/skim?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/lotabout/skim?style=flat)
+
+**[spacer](https://github.com/samwho/spacer)**
+CLI tool to insert spacers when command output stops
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/samwho/spacer?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/samwho/spacer?style=flat)
 
 **[tealdear](https://github.com/dbrgn/tealdeer)**
 A very fast implementation of `tldr` in Rust.
