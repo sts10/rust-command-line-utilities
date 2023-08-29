@@ -98,11 +98,11 @@ A multi-threaded file-tree visualizer and disk usage analyzer. (I usually use it
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/solidiquis/erdtree?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/solidiquis/erdtree?style=flat)
 
 **[exa](https://github.com/ogham/exa/)**
-"A modern version of `ls`". Note: See [this discussion re: maintenance](https://github.com/ogham/exa/issues/1139). It looks like there's a more active fork called [eza](https://github.com/eza-community/eza).
+"A modern version of `ls`". Note: See [this discussion re: maintenance](https://github.com/ogham/exa/issues/1139). It looks like there's a more active fork called [eza](https://github.com/eza-community/eza). Also see lsd.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ogham/exa?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ogham/exa?style=flat)
 
 **[fclones](https://github.com/pkolaczk/fclones)**
-an "efficient duplicate file finder"
+An "efficient duplicate file finder"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/pkolaczk/fclones?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/pkolaczk/fclones?style=flat)
 
 **[fd](https://github.com/sharkdp/fd)**
@@ -185,7 +185,7 @@ Identify mysterious text or analyze hard-coded strings from captured network pac
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/swanandx/lemmeknow?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/swanandx/lemmeknow?style=flat)
 
 **[lsd](https://github.com/Peltoche/lsd)**
-The next generation `ls` command (though personally I prefer `exa`)
+The next generation `ls` command
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/Peltoche/lsd?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/Peltoche/lsd?style=flat)
 
 **[macchina](https://github.com/macchina-cli/macchina)**
