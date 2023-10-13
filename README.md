@@ -21,7 +21,7 @@ The ones I use regularly use are: bat, fd, fend, hyperfine, miniserve, ripgrep, 
 |du  |[pdu       ](https://github.com/KSXGitHub/parallel-disk-usage)|![GitHub Repo stars](https://img.shields.io/github/stars/KSXGitHub/parallel-disk-usage?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/KSXGitHub/parallel-disk-usage?style=flat-square&label=)|
 |find|[fd        ](https://github.com/sharkdp/fd)        |![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/fd?style=flat-square&label=)        |![GitHub last release](https://img.shields.io/github/release-date/sharkdp/fd?style=flat-square&label=)        |
 |grep|[ripgrep   ](https://github.com/burntsushi/ripgrep)|![GitHub Repo stars](https://img.shields.io/github/stars/burntsushi/ripgrep?style=flat-square&label=)|![GitHub last release](https://img.shields.io/github/release-date/BurntSushi/ripgrep?style=flat-square&label=)|
-|ls  |[exa       ](https://github.com/ogham/exa)         |![GitHub Repo stars](https://img.shields.io/github/stars/ogham/exa?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/ogham/exa?style=flat-square&label=)         |
+|ls  |[eza       ](https://github.com/eza-community/eza) |![GitHub Repo stars](https://img.shields.io/github/stars/eza-community/eza?style=flat-square&label=)         |![GitHub last release](https://img.shields.io/github/release-date/eza-community/eza?style=flat-square&label=)         |
 |ls  |[lsd       ](https://github.com/peltoche/lsd)      |![GitHub Repo stars](https://img.shields.io/github/stars/peltoche/lsd?style=flat-square&label=)      |![GitHub last release](https://img.shields.io/github/release-date/Peltoche/lsd?style=flat-square&label=)      |
 |ps  |[procs     ](https://github.com/dalance/procs)     |![GitHub Repo stars](https://img.shields.io/github/stars/dalance/procs?style=flat-square&label=)     |![GitHub last release](https://img.shields.io/github/release-date/dalance/procs?style=flat-square&label=)     |
 |rm  |[rip       ](https://github.com/nivekuil/rip)      |![GitHub Repo stars](https://img.shields.io/github/stars/nivekuil/rip?style=flat-square&label=)      |![GitHub last release](https://img.shields.io/github/release-date/nivekuil/rip?style=flat-square&label=)      |
@@ -97,9 +97,9 @@ A command-line DNS client
 A multi-threaded file-tree visualizer and disk usage analyzer. (I usually use it as `et -l 1 -s size <DIR>`)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/solidiquis/erdtree?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/solidiquis/erdtree?style=flat)
 
-**[exa](https://github.com/ogham/exa/)**
-"A modern version of `ls`". Note: See [this discussion re: maintenance](https://github.com/ogham/exa/issues/1139). It looks like there's a more active fork called [eza](https://github.com/eza-community/eza). Also see lsd.
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/ogham/exa?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ogham/exa?style=flat)
+**[eza](https://github.com/eza-community/eza)**
+A modern, maintained replacement for ls
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/eza-community/eza?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/eza-community/eza?style=flat)
 
 **[fclones](https://github.com/pkolaczk/fclones)**
 An "efficient duplicate file finder"
@@ -468,7 +468,7 @@ alias cat=bat --paging=never
 
 ### Aliases for `ls` I use in my `~/.bashrc`
 
-Prefer eza, then lsd, then exa, then regular old `ls`.
+Prefer eza, then lsd, then regular old `ls`.
 
 ```bash
 if hash eza 2>/dev/null; then
@@ -485,13 +485,6 @@ elif hash lsd 2>/dev/null; then
         alias lt='lsd --tree --depth=2 --group-directories-first'
         alias llt='lsd -l --tree --depth=2 --group-directories-first'
         alias lT='lsd --tree --depth=4 --group-directories-first'
-elif hash exa 2>/dev/null; then
-        alias ls='exa'
-        alias l='exa -l --all --group-directories-first --git'
-        alias ll='exa -l --all --all --group-directories-first --git'
-        alias lt='exa -T --git-ignore --level=2 --group-directories-first'
-        alias llt='exa -lT --git-ignore --level=2 --group-directories-first'
-        alias lT='exa -T --git-ignore --level=4 --group-directories-first'
 else
         alias l='ls -lah'
         alias ll='ls -alF'
