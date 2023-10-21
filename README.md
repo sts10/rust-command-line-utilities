@@ -457,6 +457,7 @@ A "bit-precise model checker for Rust."
 - [lib.rs's list](https://lib.rs/command-line-utilities)
 - ["Awesome Rust"](https://github.com/rust-unofficial/awesome-rust)
 - [Awesome Alternatives in Rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust)
+- [Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust): "Curated list of resources for Embedded and Low-level development in the Rust programming language"
 
 ## Tips
 
