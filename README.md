@@ -272,6 +272,10 @@ An extremely fast Python linter, written in Rust.
 Find and replace text in source files
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/your-tools/ruplacer?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/your-tools/ruplacer?style=flat)
 
+**[RustScan](https://github.com/RustScan/RustScan)**
+The modern port scanner
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/RustScan/RustScan?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/RustScan/RustScan?style=flat)
+
 **[sd](https://github.com/chmln/sd)**
 Intuitive find & replace CLI (`sed` alternative).
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/chmln/sd?style=flat)
