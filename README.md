@@ -499,13 +499,13 @@ fi
 
 ## Shameless plug: Tools that I've written in Rust
 
+**[Phraze](https://github.com/sts10/phraze)**
+Generate random passphrases
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sts10/phraze?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sts10/phraze?style=flat)
+
 **[Tidy](https://github.com/sts10/tidy)**
 A Swiss army knife for word lists
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/sts10/tidy?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sts10/tidy?style=flat)
-
-**[Medic](https://github.com/sts10/medic)**
-Check the "health" of passwords in a KeePass database
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/sts10/medic?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sts10/medic?style=flat)
 
 **[QRForge](https://github.com/sts10/qr-forge)**
 Safely transform between 32-character TOTP secret keys and their QR codes
