@@ -355,6 +355,10 @@ A smarter `cd` command.
 A cross-platform, OpenGL terminal emulator.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/alacritty/alacritty?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/alacritty/alacritty?style=flat)
 
+**[Rio](https://github.com/raphamorim/rio)**:
+A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/raphamorim/rio?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/raphamorim/rio?style=flat)
+
 **[Starship](https://starship.rs/)**:
 Customizable prompt for any shell.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/starship/starship?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/starship/starship?style=flat)
