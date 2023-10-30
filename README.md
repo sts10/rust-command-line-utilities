@@ -515,6 +515,6 @@ Safely transform between 32-character TOTP secret keys and their QR codes
 
 If you know of a Rust command line tool that you think would be a good fit for this list, open an issue or a PR. Note that I generally only consider projects that have **100 or more stars on GitHub**, which I'm hoping means that the program will be a bit battle-tested and ready for real-world use. I also reserve the right to reject submissions even if they meet this criteria.
 
-You're of course welcome to fork this project and maintain your own list! Check the included LICENSE for more information.
+You're of course welcome to fork this project and maintain your own list! Check the included LICENSE file for more information.
 
 <!-- Open an Issue or PR or let me know on [Mastodon](https://hachyderm.io/@schlink). -->
