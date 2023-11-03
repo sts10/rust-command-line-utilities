@@ -324,6 +324,10 @@ Count your (lines of) code, quickly
 Upgrade all of your tools. (July 2023: [Maintainers wanted](https://github.com/topgrade-rs/topgrade#maintainers-wanted).)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/topgrade-rs/topgrade?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/topgrade-rs/topgrade?style=flat)
 
+**[typst](https://github.com/typst/typst)**
+A new markup-based typesetting system that is powerful and easy to learn.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/typst/typst?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/typst/typst?style=flat)
+
 **[watchexec](https://github.com/watchexec/watchexec)**
 Execute commands in response to file modifications. (Note: See [cargo watch](https://github.com/watchexec/cargo-watch) if you want to watch a Rust project.)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/watchexec?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/watchexec/watchexec?style=flat)
