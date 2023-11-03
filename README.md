@@ -125,6 +125,10 @@ A modern Ruby version manager written in Rust
 "Find files with SQL-like queries"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/jhspetersson/fselect?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/jhspetersson/fselect?style=flat)
 
+**[gifski](https://github.com/ImageOptim/gifski)**
+GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format. 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ImageOptim/gifski?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ImageOptim/gifski?style=flat)
+
 **[git-cliff](https://github.com/orhun/git-cliff)**
 "A highly customizable Changelog Generator that follows Conventional Commit specifications"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/orhun/git-cliff?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/orhun/git-cliff?style=flat)
@@ -152,6 +156,10 @@ Like jq, but for HTML. Uses CSS selectors to extract bits of content from HTML f
 **[hyperfine](https://github.com/sharkdp/hyperfine)**
 Command-line benchmarking tool
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/hyperfine?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sharkdp/hyperfine?style=flat)
+
+**[hyperlink](https://github.com/untitaker/hyperlink)**
+Very fast link checker for CI. 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/untitaker/hyperlink?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/untitaker/hyperlink?style=flat)
 
 **[inlyne](https://github.com/trimental/inlyne)**
 "GPU powered yet browsless tool to help you quickly view markdown files"
@@ -276,6 +284,10 @@ Find and replace text in source files
 The modern port scanner
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/RustScan/RustScan?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/RustScan/RustScan?style=flat)
 
+**[samply](https://github.com/mstange/samply)**
+Command-line sampling profiler for macOS and Linux 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/mstange/samply?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/mstange/samply?style=flat)
+
 **[sd](https://github.com/chmln/sd)**
 Intuitive find & replace CLI (`sed` alternative).
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/chmln/sd?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/chmln/sd?style=flat)
@@ -287,6 +299,10 @@ A command-line fuzzy finder
 **[spacer](https://github.com/samwho/spacer)**
 CLI tool to insert spacers when command output stops
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/samwho/spacer?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/samwho/spacer?style=flat)
+
+**[tailspin](https://github.com/bensadeh/tailspin)**
+A log file highlighter 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/bensadeh/tailspin?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/bensadeh/tailspin?style=flat)
 
 **[tealdear](https://github.com/dbrgn/tealdeer)**
 A very fast implementation of `tldr` in Rust.
