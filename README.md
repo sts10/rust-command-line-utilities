@@ -178,7 +178,7 @@ Very fast link checker for CI.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/kamiyaa/joshuto?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/kamiyaa/joshuto?style=flat)
 
 **[jql](https://github.com/yamafaktory/jql)**
-A JSON query language CLI tool
+A JSON query language CLI tool. Note there's also [jaq](https://github.com/01mf02/jaq).
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/yamafaktory/jql?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/yamafaktory/jql?style=flat)
 
 **[just](https://github.com/casey/just)**
