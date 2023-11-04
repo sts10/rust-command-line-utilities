@@ -352,7 +352,7 @@ Take the union, intersection, difference, etc of files — compare to `uniq` and
 A smarter `cd` command.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ajeetdsouza/zoxide?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ajeetdsouza/zoxide?style=flat)
 
-### Calculators
+## Calculators
 **[eva](https://github.com/nerdypepper/eva)**
 "a calculator REPL, similar to bc(1)"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/nerdypepper/eva?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/nerdypepper/eva?style=flat)
@@ -526,10 +526,6 @@ Generate random passphrases
 **[Tidy](https://github.com/sts10/tidy)**
 A Swiss army knife for word lists
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/sts10/tidy?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sts10/tidy?style=flat)
-
-**[QRForge](https://github.com/sts10/qr-forge)**
-Safely transform between 32-character TOTP secret keys and their QR codes
-<br>![GitHub last release](https://img.shields.io/github/release-date/sts10/qr-forge?style=flat)
 
 ## Criteria for submitting a tool to this list
 
