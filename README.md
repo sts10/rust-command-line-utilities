@@ -405,10 +405,6 @@ A post-modern modal text editor.
 Lightning-fast and Powerful Code Editor written in Rust
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lapce/lapce?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/lapce/lapce?style=flat)
 
-**[Ox](https://github.com/curlpipe/ox)**:
-An independent Rust text editor that runs in your terminal!
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/curlpipe/ox?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/curlpipe/ox?style=flat)
-
 **[pepper](https://github.com/vamolessa/pepper)**:
 A simple and opinionated modal code editor for your terminal
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/vamolessa/pepper?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/vamolessa/pepper?style=flat)
