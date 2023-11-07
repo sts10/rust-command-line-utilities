@@ -300,6 +300,10 @@ A command-line fuzzy finder
 CLI tool to insert spacers when command output stops
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/samwho/spacer?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/samwho/spacer?style=flat)
 
+**[sshx](https://github.com/ekzhang/sshx)**
+Fast, collaborative live terminal sharing over the web
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/ekzhang/sshx?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ekzhang/sshx?style=flat)
+
 **[tailspin](https://github.com/bensadeh/tailspin)**
 A log file highlighter 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/bensadeh/tailspin?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/bensadeh/tailspin?style=flat)
