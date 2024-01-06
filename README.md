@@ -464,6 +464,10 @@ A cryptographically verifiable code review system for the cargo (Rust) package m
 Detects usage of unsafe Rust in a Rust crate and its dependencies.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-secure-code/cargo-geiger?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/rust-secure-code/cargo-geiger?style=flat)
 
+**[cargo-mutants](https://github.com/sourcefrog/cargo-mutants)**:
+Inject bugs and see if your tests catch them! 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sourcefrog/cargo-mutants?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sourcefrog/cargo-mutants?style=flat)
+
 **[cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks)**:
 Scan your Rust crate for semver violations.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/obi1kenobi/cargo-semver-checks?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/obi1kenobi/cargo-semver-checks?style=flat)
