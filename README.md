@@ -352,6 +352,10 @@ An extended `cp`
 A fast CSV command line toolkit written in Rust.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/BurntSushi/xsv?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/BurntSushi/ripgrep?style=flat)
 
+**[yazi](https://github.com/sxyazi/yazi)**
+"Blazing fast terminal file manager written in Rust, based on async I/O."
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sxyazi/yazi?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sxyazi/yazi?style=flat)
+
 **[zet](https://github.com/yarrow/zet)**
 Take the union, intersection, difference, etc of files — compare to `uniq` and `comm`.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/yarrow/zet?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/yarrow/zet?style=flat)
@@ -441,10 +445,6 @@ Note that there is ["a cross-platform reimplementation of the GNU coreutils in R
 A background Rust code checker
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/bacon?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/printfn/fend?style=flat)
 
-**[cargo watch](https://github.com/watchexec/cargo-watch)**:
-Watches over your Cargo project's source.
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/watchexec/cargo-watch?style=flat)
-
 **[cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit)**:
 Audit Cargo.lock files for crates with security vulnerabilities reported to the RustSec Advisory Database. See also: [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) and/or [cargo-about](https://github.com/EmbarkStudios/cargo-about).
 
@@ -479,6 +479,10 @@ Scan your Rust crate for semver violations.
 **[cargo-show-asm](https://github.com/pacak/cargo-show-asm)**:
 Shows asm, LLVM, MIR and similar low level stuff for your code
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/pacak/cargo-show-asm?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/pacak/cargo-show-asm?style=flat)
+
+**[cargo watch](https://github.com/watchexec/cargo-watch)**:
+Watches over your Cargo project's source.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/watchexec/cargo-watch?style=flat)
 
 **[cargo-wipe](https://github.com/mihai-dinculescu/cargo-wipe)**:
 Cargo subcommand that recursively finds and optionally wipes all "target" or "node_modules" folders that are found in the current path. See also: [kondo](https://github.com/tbillington/kondo).
