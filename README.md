@@ -61,6 +61,10 @@ A human-friendly and fast alternative to `cut` and (sometimes) `awk`
 "A tool for ad hoc profiling"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/nnethercote/counts?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/nnethercote/counts?style=flat)
 
+**[csvlens](https://github.com/YS-L/csvlens)**
+A command line CSV file viewer 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/YS-L/csvlens?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/YS-L/csvlens?style=flat)
+
 **[delta](https://github.com/dandavison/delta)**
 A syntax-highlighting pager for git, `diff`, and grep output
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/dandavison/delta?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/dandavison/delta?style=flat)
