@@ -137,10 +137,6 @@ GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality
 "A highly customizable Changelog Generator that follows Conventional Commit specifications"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/orhun/git-cliff?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/orhun/git-cliff?style=flat)
 
-**[gptman](https://github.com/rust-disk-partition-management/gptman)**
-"A GPT manager that allows you to copy partitions from one disk to another and more"
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/rust-disk-partition-management/gptman?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/rust-disk-partition-management/gptman?style=flat)
-
 **[grex](https://github.com/pemistahl/grex)**
 A command-line tool and library for generating regular expressions from user-provided test cases
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/pemistahl/grex?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/pemistahl/grex?style=flat)
