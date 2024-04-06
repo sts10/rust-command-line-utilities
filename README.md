@@ -2,8 +2,6 @@
 
 Note that I have not tried all of these personally and **cannot and do not vouch for all of the tools listed here**. In most cases, the descriptions below are copied directly from their code repos at the time I found them. Some projects may have been abandoned. Investigate before installing/using.
 
-The ones I use regularly use are: bat, fd, fend, hyperfine, miniserve, ripgrep, just, cargo-audit and cargo-wipe. (I'm torn between dust and erdtree...)
-
 ## Unix-to-Rust replacements (or near-replacements)
 
 |unix|rust                                               |stars                                                                                                |last release                                                                                                  |
@@ -500,6 +498,8 @@ A "bit-precise model checker for Rust."
 - [Embedded Rust](https://github.com/rust-embedded/awesome-embedded-rust): "Curated list of resources for Embedded and Low-level development in the Rust programming language"
 
 ## Tips
+
+Of the tools listed above, the ones I use regularly use are: bat, fd, fend, hyperfine, miniserve, ripgrep, just, cargo-audit and cargo-wipe. (I'm still torn between dust and erdtree...)
 
 ### `bat` alias to act more like `cat`
 
