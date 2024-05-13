@@ -535,11 +535,11 @@ fi
 
 ## Shameless plug: Tools that I've written in Rust
 
-**[Phraze](https://github.com/sts10/phraze)**
+**[Phraze](https://github.com/sts10/phraze)**:
 Generate random passphrases
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/sts10/phraze?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sts10/phraze?style=flat)
 
-**[Tidy](https://github.com/sts10/tidy)**
+**[Tidy](https://github.com/sts10/tidy)**:
 A Swiss army knife for word lists
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/sts10/tidy?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sts10/tidy?style=flat)
 
