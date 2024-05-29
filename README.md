@@ -71,6 +71,10 @@ A syntax-highlighting pager for git, `diff`, and grep output
 A syntax-aware diff
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/Wilfred/difftastic?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/Wilfred/difftastic?style=flat)
 
+**[diskonaut](https://github.com/imsnif/diskonaut)**
+Terminal disk space navigator
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/imsnif/diskonaut?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/imsnif/diskonaut?style=flat)
+
 **[dog](https://github.com/ogham/dog)**
 A command-line DNS client
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ogham/dog?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ogham/dog?style=flat)
