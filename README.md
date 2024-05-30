@@ -421,7 +421,7 @@ A simple and opinionated modal code editor for your terminal
 
 **[xi](https://github.com/xi-editor/xi-editor)**:
 A modern editor with a backend written in Rust.
-<br>![GitHub Repo stars](https://img.shields.io/github/starsxi-editory/xi-editor?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/xi-editory/xi-editor?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/xi-editor/xi-editor?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/xi-editor/xi-editor?style=flat)
 
 **[zed](https://github.com/zed-industries/zed)**:
 A "high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
