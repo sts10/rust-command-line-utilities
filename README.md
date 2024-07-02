@@ -322,6 +322,10 @@ A very fast implementation of `tldr` in Rust.
 Find build artifacts that are taking up disk space
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/vmchale/tin-summer?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/vmchale/tin-summer?style=flat)
 
+**[tiny](https://github.com/osa1/tiny)**
+A terminal IRC client
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/osa1/tiny?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/osa1/tiny?style=flat)
+
 **[tokei](https://github.com/XAMPPRocky/tokei)**
 Count your (lines of) code, quickly
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/XAMPPRocky/tokei?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/XAMPPRocky/tokei?style=flat)
