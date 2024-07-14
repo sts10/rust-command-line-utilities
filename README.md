@@ -331,8 +331,12 @@ Count your (lines of) code, quickly
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/XAMPPRocky/tokei?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/XAMPPRocky/tokei?style=flat)
 
 **[topgrade](https://github.com/topgrade-rs/topgrade)**
-Upgrade all of your tools. (July 2023: [Maintainers wanted](https://github.com/topgrade-rs/topgrade#maintainers-wanted).)
+Upgrade all of your tools.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/topgrade-rs/topgrade?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/topgrade-rs/topgrade?style=flat)
+
+**[vocage](https://github.com/proycon/vocage)**
+A minimalistic vocabulary trainer (flashcards) for the terminal 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/proycon/vocage?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/proycon/vocage?style=flat)
 
 **[watchexec](https://github.com/watchexec/watchexec)**
 Execute commands in response to file modifications. (Note: See [cargo watch](https://github.com/watchexec/cargo-watch) if you want to watch a Rust project.)
