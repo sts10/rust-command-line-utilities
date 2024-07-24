@@ -226,6 +226,10 @@ Save complete web pages as a single HTML file
 Run multiple commands in parallel
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/pvolok/mprocs?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/pvolok/mprocs?style=flat)
 
+**[onefetch](https://github.com/o2sh/onefetch)**
+Display project information and code statistics for a local Git repository
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/o2sh/onefetch?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/o2sh/onefetch?style=flat)
+
 **[ouch](https://github.com/ouch-org/ouch)**
 "Painless compression and decompression for your terminal"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/ouch-org/ouch?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/ouch-org/ouch?style=flat)
