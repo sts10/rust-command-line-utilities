@@ -216,7 +216,7 @@ Fancy `cat` for Markdown
 
 **[miniserve](https://github.com/svenstaro/miniserve)**
 A "CLI tool to serve files and dirs over HTTP". I use this as a replacement for `python -m http.server`.
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/svenstaro/miniserve) ![GitHub last release](https://img.shields.io/github/release-date/svenstaro/miniserve?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/svenstaro/miniserve?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/svenstaro/miniserve?style=flat)
 
 **[mise](https://github.com/jdx/mise)**
 Manage dev tools and env vars, plus a task runner 
