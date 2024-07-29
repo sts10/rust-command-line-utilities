@@ -218,6 +218,10 @@ Fancy `cat` for Markdown
 A "CLI tool to serve files and dirs over HTTP". I use this as a replacement for `python -m http.server`.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/svenstaro/miniserve) ![GitHub last release](https://img.shields.io/github/release-date/svenstaro/miniserve?style=flat)
 
+**[mise](https://github.com/jdx/mise)**
+Manage dev tools and env vars, plus a task runner 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/jdx/mise?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/jdx/mise?style=flat)
+
 **[monolith](https://github.com/y2z/monolith)**
 Save complete web pages as a single HTML file
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/y2z/monolith?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/y2z/monolith?style=flat)
