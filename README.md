@@ -406,12 +406,16 @@ Customizable prompt for any shell.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/starship/starship?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/starship/starship?style=flat)
 
 **[Wezterm](https://github.com/wez/wezterm)**:
-A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/wez/wezterm?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/wez/wezterm?style=flat)
 
 **[Zellij](https://github.com/zellij-org/zellij)**:
 A terminal workspace with batteries included.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/zellij-org/zellij?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/zellij-org/zellij?style=flat)
+
+**[Warp](https://github.com/warpdotdev/Warp)**:
+A modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/warpdotdev/Warp?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/warpdotdev/Warp?style=flat)
 
 ## Text editors written in Rust
 
