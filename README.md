@@ -183,6 +183,10 @@ Very fast link checker for CI.
 A JSON query language CLI tool. Note there's also [jaq](https://github.com/01mf02/jaq).
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/yamafaktory/jql?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/yamafaktory/jql?style=flat)
 
+**[juliaup](https://github.com/JuliaLang/juliaup)**
+A modern Julia version manager written in Rust
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/JuliaLang/juliaup?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/JuliaLang/juliaup?style=flat)
+
 **[just](https://github.com/casey/just)**
 Just a command runner (seems like an alternative to `make`)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/casey/just?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/casey/just?style=flat)
