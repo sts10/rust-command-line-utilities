@@ -342,6 +342,10 @@ Count your (lines of) code, quickly
 Upgrade all of your tools.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/topgrade-rs/topgrade?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/topgrade-rs/topgrade?style=flat)
 
+**[uv](https://github.com/astral-sh/uv)**
+An extremely fast Python package and project manager, written in Rust. 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/astral-sh/uv?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/astral-sh/uv?style=flat)
+
 **[vocage](https://github.com/proycon/vocage)**
 A minimalistic vocabulary trainer (flashcards) for the terminal 
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/proycon/vocage?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/proycon/vocage?style=flat)
@@ -396,6 +400,10 @@ A smarter `cd` command.
 **[Alacritty](https://github.com/alacritty/alacritty)**:
 A cross-platform, OpenGL terminal emulator.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/alacritty/alacritty?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/alacritty/alacritty?style=flat)
+
+**[nushell](https://github.com/nushell/nushell)**:
+A new type of shell.
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/nushell/nushell?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/nushell/nushell?style=flat)
 
 **[Rio](https://github.com/raphamorim/rio)**:
 A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. 
