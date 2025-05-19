@@ -510,6 +510,10 @@ Scan your Rust crate for semver violations.
 Shows asm, LLVM, MIR and similar low level stuff for your code
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/pacak/cargo-show-asm?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/pacak/cargo-show-asm?style=flat)
 
+**[cargo update](https://github.com/nabijaczleweli/cargo-update)**:
+A cargo subcommand for checking and applying updates to installed executables 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/nabijaczleweli/cargo-update?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/nabijaczleweli/cargo-update?style=flat)
+
 **[cargo watch](https://github.com/watchexec/cargo-watch)**:
 Watches over your Cargo project's source.
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/cargo-watch?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/watchexec/cargo-watch?style=flat)
