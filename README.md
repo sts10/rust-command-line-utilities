@@ -171,6 +171,10 @@ Very fast link checker for CI.
 "Like IntelliSense, but for shells"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/lasantosr/intelli-shell?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/lasantosr/intelli-shell?style=flat)
 
+**[jj](https://github.com/jj-vcs/jj)**
+"A Git-compatible VCS that is both simple and powerful"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/jj-vcs/jj?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/jj-vcs/jj?style=flat)
+
 **[jless](https://github.com/PaulJuliusMartinez/jless)**
 "command-line JSON viewer designed for reading, exploring, and searching through JSON data."
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/PaulJuliusMartinez/jless?style=flat)
