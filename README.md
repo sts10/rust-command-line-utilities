@@ -403,6 +403,10 @@ A smarter `cd` command.
 "a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals"
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/PaddiM8/kalker?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/PaddiM8/kalker?style=flat)
 
+**[numbat](https://github.com/sharkdp/numbat)**
+"A statically typed programming language for scientific computations with first class support for physical dimensions and units"
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/sharkdp/numbat?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/sharkdp/numbat?style=flat)
+
 ## Terminal emulators / terminal-related
 
 **[Alacritty](https://github.com/alacritty/alacritty)**:
@@ -477,7 +481,7 @@ Note that there is ["a cross-platform reimplementation of the GNU coreutils in R
 
 **[bacon](https://github.com/Canop/bacon)**:
 A background Rust code checker
-<br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/bacon?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/printfn/fend?style=flat)
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/Canop/bacon?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/Canop/bacon?style=flat)
 
 **[cargo-audit](https://github.com/RustSec/rustsec/tree/main/cargo-audit)**:
 Audit Cargo.lock files for crates with security vulnerabilities reported to the RustSec Advisory Database. See also: [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) and/or [cargo-about](https://github.com/EmbarkStudios/cargo-about).
