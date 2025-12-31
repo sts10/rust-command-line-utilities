@@ -362,6 +362,10 @@ A minimalistic vocabulary trainer (flashcards) for the terminal
 Execute commands in response to file modifications. (Note: See [cargo watch](https://github.com/watchexec/cargo-watch) if you want to watch a Rust project.)
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/watchexec/watchexec?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/watchexec/watchexec?style=flat)
 
+**[xan](https://github.com/medialab/xan)**
+The CSV magician 
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/medialab/xan?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/medialab/xan?style=flat)
+
 **[xcp](https://github.com/tarka/xcp)**
 An extended `cp`
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/tarka/xcp?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/tarka/xcp?style=flat)
