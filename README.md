@@ -234,6 +234,10 @@ Manage dev tools and env vars, plus a task runner
 Save complete web pages as a single HTML file
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/y2z/monolith?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/y2z/monolith?style=flat)
 
+**[models](https://github.com/arimxyer/models)**
+A TUI for browsing AI models, benchmarks, and coding agents
+<br>![GitHub Repo stars](https://img.shields.io/github/stars/arimxyer/models?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/arimxyer/models?style=flat)
+
 **[mprocs](https://github.com/pvolok/mprocs)**
 Run multiple commands in parallel
 <br>![GitHub Repo stars](https://img.shields.io/github/stars/pvolok/mprocs?style=flat) ![GitHub last release](https://img.shields.io/github/release-date/pvolok/mprocs?style=flat)
